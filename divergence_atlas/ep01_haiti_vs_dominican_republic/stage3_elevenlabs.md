@@ -247,7 +247,7 @@ If ElevenLabs mispronounces a name, swap the phonetic spelling into the text or 
 | Ayiti | ah-YEE-tee | |
 | Pico Duarte | PEE-koh DWAR-teh | |
 | Cibao | see-BOW (rhymes with "now") | |
-| Saint-Domingue | san doh-MANG | French; soft final "g" |
+| Saint-Domingue | san doh-MANG | French; nasal "an", hard "g" at the end |
 | Code Noir | kohd NWAHR | |
 | Santo Domingo | SAHN-toh doh-MEEN-goh | |
 | Bordeaux | bor-DOH | |
@@ -261,4 +261,4 @@ If ElevenLabs mispronounces a name, swap the phonetic spelling into the text or 
 | Tonton Macoutes | TON-ton mah-KOOT | |
 | Goudougoudou | goo-DOO-goo-DOO | |
 
-**Voice settings tip:** Stability around 45–55% and Style around 15–25% keep the calm, wry teacher tone. Leave the "…" in Part 1 as is; it produces the pause in the title question.
+**Voice settings tip:** Stability around 45–55% and Style around 15–25% keep the calm, wry teacher tone. Keep the "..." in Part 1; it produces the pause in the title question.

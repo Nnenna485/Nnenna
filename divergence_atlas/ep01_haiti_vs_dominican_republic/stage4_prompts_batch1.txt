@@ -4,7 +4,7 @@ The script is split into 217 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-Beat 1 · 0:00 · trim to ~3.0s · MODERN MAP
+Beat 1 · trim to ~3.0s · MODERN MAP
 [Script Segment] "From space, you can see a border on this island."
 
 Image Prompt: 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: the island of Hispaniola seen from high orbit-style overhead view, centered, with a single thin glowing white border line running north to south through the western third; a navy pill label 'HISPANIOLA'. Camera: Top-down overhead, slow push-in. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Curious, calm. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -18,7 +18,7 @@ Video Prompt: 2.5D animated map explainer illustration in modern map mode: reali
 
 ---
 
-Beat 2 · 0:03 · trim to ~1.5s · MODERN MAP
+Beat 2 · trim to ~1.5s · MODERN MAP
 [Script Segment] "On one side, green hills."
 
 Image Prompt: 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: close aerial view of the Hispaniola border region, the eastern side covered in lush rounded green 3D cartoon trees on mustard-yellow (#E8C21E) tinted land; a navy pill label 'DOMINICAN REPUBLIC'. Camera: High three-quarter angle, slow pan east. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Lush, inviting. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -32,7 +32,7 @@ Video Prompt: 2.5D animated map explainer illustration in modern map mode: reali
 
 ---
 
-Beat 3 · 0:04 · trim to ~1.8s · MODERN MAP
+Beat 3 · trim to ~1.8s · MODERN MAP
 [Script Segment] "On the other, bare brown ridges."
 
 Image Prompt: 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: close aerial view of the Haiti–Dominican Republic border region on Hispaniola, the western side bare brown eroded ridges on red-orange (#E2452B) tinted land with only a few sparse trees; a navy pill label 'HAITI'. Camera: High three-quarter angle, slow pan west. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Stark, uneasy. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -46,7 +46,7 @@ Video Prompt: 2.5D animated map explainer illustration in modern map mode: reali
 
 ---
 
-Beat 4 · 0:06 · trim to ~1.5s · MODERN MAP
+Beat 4 · trim to ~1.5s · MODERN MAP
 [Script Segment] "That's strange. It's one island."
 
 Image Prompt: 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: the whole island of Hispaniola as one shape, eastern two-thirds mustard yellow, western third red-orange, a large navy pill label 'ONE ISLAND' floating above it. Camera: Top-down, gentle pull-back. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Puzzled, intrigued. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -60,7 +60,7 @@ Video Prompt: 2.5D animated map explainer illustration in modern map mode: reali
 
 ---
 
-Beat 5 · 0:07 · trim to ~3.0s · MODERN MAP
+Beat 5 · trim to ~3.0s · MODERN MAP
 [Script Segment] "The same rain clouds roll in off the same sea."
 
 Image Prompt: 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: puffy 3D white rain clouds drifting in from the bright sky-blue (#4F8FD6) Atlantic Ocean toward Hispaniola, both halves visible, mustard yellow east and red-orange west. Camera: Low oblique angle over the ocean, slow push toward the island. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Calm, even-handed. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -74,7 +74,7 @@ Video Prompt: 2.5D animated map explainer illustration in modern map mode: reali
 
 ---
 
-Beat 6 · 0:10 · trim to ~4.5s · SEPIA MAP
+Beat 6 · trim to ~4.5s · SEPIA MAP
 [Script Segment] "And many of the people on both sides arrived on the same kind of ship."
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia parchment map of the Atlantic with two small glossy 3D wooden sailing ships, one arriving on the west of Hispaniola and one on the east, thin dotted route lines from the West African coast. Camera: Wide overhead, slow drift right. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Historical, solemn. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -88,7 +88,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 7 · 0:15 · trim to ~1.8s · MODERN MAP
+Beat 7 · trim to ~1.8s · MODERN MAP
 [Script Segment] "In 1960, by one IMF estimate,"
 
 Image Prompt: 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: Hispaniola split mustard yellow (east) and red-orange (west), with a large gold (#F5C518) 3D-extruded '1960' top-left and a small navy pill tag 'IMF ESTIMATE'. Camera: Top-down, locked off. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Factual, measured. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -102,7 +102,7 @@ Video Prompt: 2.5D animated map explainer illustration in modern map mode: reali
 
 ---
 
-Beat 8 · 0:17 · trim to ~3.3s · DIORAMA
+Beat 8 · trim to ~3.3s · DIORAMA
 [Script Segment] "the average Haitian and the average Dominican earned about the same."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: two equal-height glossy 3D gold coin stacks standing side by side on a parchment map tile, one with a red-orange flag pill 'HAITI', one with a mustard-yellow flag pill 'DOMINICAN REP.', a small '=' sign between them. Camera: Eye-level close-up, slow push-in. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Balanced, surprising. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -116,7 +116,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 9 · 0:20 · trim to ~3.6s · DIORAMA
+Beat 9 · trim to ~3.6s · DIORAMA
 [Script Segment] "Today, the Dominican Republic produces about five times as much per person."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: two glossy 3D gold coin stacks side by side on a parchment map tile: the mustard-yellow 'DOMINICAN REP.' stack towers five times higher than the short red-orange 'HAITI' stack; a large gold '×5' top-left. Camera: Low angle, slow tilt up the tall stack. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Striking, dramatic. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -130,7 +130,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 10 · 0:24 · trim to ~2.4s · MODERN MAP
+Beat 10 · trim to ~2.4s · MODERN MAP
 [Script Segment] "Same island. Roughly the same number of people."
 
 Image Prompt: 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: Hispaniola split mustard yellow and red-orange, two tiny faceless toy-like crowd clusters of equal size, one on each half, with navy pills 'SAME ISLAND' and 'SAME POPULATION'. Camera: Top-down, slow push-in. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Puzzling, symmetrical. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -144,7 +144,7 @@ Video Prompt: 2.5D animated map explainer illustration in modern map mode: reali
 
 ---
 
-Beat 11 · 0:26 · trim to ~1.5s · MODERN MAP
+Beat 11 · trim to ~1.5s · MODERN MAP
 [Script Segment] "So why is Haiti poor…"
 
 Image Prompt: 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: the western third of Hispaniola in red-orange, under charcoal storm clouds, with a big navy pill question tag 'WHY POOR?'. Camera: Top-down, slight push toward the west. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Questioning, heavy. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -158,7 +158,7 @@ Video Prompt: 2.5D animated map explainer illustration in modern map mode: reali
 
 ---
 
-Beat 12 · 0:28 · trim to ~1.5s · MODERN MAP
+Beat 12 · trim to ~1.5s · MODERN MAP
 [Script Segment] "but the Dominican Republic isn't?"
 
 Image Prompt: 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: the eastern two-thirds of Hispaniola in mustard yellow, sunlit, with a navy pill tag 'WHY NOT?'. Camera: Top-down, slight push toward the east. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Questioning, bright. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -172,7 +172,7 @@ Video Prompt: 2.5D animated map explainer illustration in modern map mode: reali
 
 ---
 
-Beat 13 · 0:29 · trim to ~4.2s · DIORAMA
+Beat 13 · trim to ~4.2s · DIORAMA
 [Script Segment] "The answer runs through rain, sugar, a bill, and a few very hard men."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: four glossy 3D icons in a row on a parchment map tile: a rain cloud, a sugar cane bundle, a rolled paper bill with a wax seal, and a generic military general's peaked hat; each with a small navy pill label. Camera: Eye-level, slow lateral track left to right. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Intriguing, structured. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -186,7 +186,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 14 · 0:33 · trim to ~1.2s · MODERN MAP
+Beat 14 · trim to ~1.2s · MODERN MAP
 [Script Segment] "And here's the twist."
 
 Image Prompt: 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: Hispaniola with a glowing gold question-mark-shaped outer glow around the western third. Camera: Top-down, quick gentle push-in. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Teasing, suspenseful. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -200,7 +200,7 @@ Video Prompt: 2.5D animated map explainer illustration in modern map mode: reali
 
 ---
 
-Beat 15 · 0:35 · trim to ~2.4s · SEPIA MAP
+Beat 15 · trim to ~2.4s · SEPIA MAP
 [Script Segment] "Haiti didn't fall behind because it started poor."
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia parchment map of Hispaniola, the western third outlined in dark earth brown (#6B4A2F), a small navy pill tag 'NOT POOR AT FIRST'. Camera: Top-down, locked off. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Counterintuitive. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -214,7 +214,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 16 · 0:37 · trim to ~3.6s · SEPIA MAP
+Beat 16 · trim to ~3.6s · SEPIA MAP
 [Script Segment] "It fell behind because it started as the richest colony on Earth,"
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia parchment map of Hispaniola, the western third glowing warm white, piled with glossy 3D gold coins, sugar sacks and coffee sacks, with a navy pill 'RICHEST COLONY ON EARTH'. Camera: High three-quarter angle, slow push-in. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Opulent, ironic. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -228,7 +228,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 17 · 0:41 · trim to ~1.8s · SEPIA MAP
+Beat 17 · trim to ~1.8s · SEPIA MAP
 [Script Segment] "and everyone wanted their share back."
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia parchment map of Hispaniola, the western third outlined in warm white with glossy 3D gold coins being pulled away by thin dotted lines toward the edges of the frame, toward Europe and North America. Camera: Top-down, slow pull-back. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Draining, ominous. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -242,7 +242,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 18 · 0:43 · trim to ~1.8s · SEPIA MAP
+Beat 18 · trim to ~1.8s · SEPIA MAP
 [Script Segment] "Haitians have a saying for this."
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia parchment relief map of Haiti's mountain ridges, a navy pill label 'A HAITIAN SAYING'. Camera: Low oblique angle over the ridges, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Thoughtful, quiet. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -256,7 +256,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 19 · 0:44 · trim to ~1.2s · SEPIA MAP
+Beat 19 · trim to ~1.2s · SEPIA MAP
 [Script Segment] ""Dèyè mòn, gen mòn.""
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: Haiti's ridges in sepia relief, ridge after ridge receding into haze, a navy pill label 'DÈYÈ MÒN, GEN MÒN'. Camera: Low oblique angle, slow dolly forward over the ridges. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Reflective, poetic. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -270,7 +270,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 20 · 0:46 · trim to ~1.5s · CROSS-SECTION
+Beat 20 · trim to ~1.5s · CROSS-SECTION
 [Script Segment] "Beyond the mountains, more mountains."
 
 Image Prompt: 2.5D animated map explainer illustration, side-on cross-section elevation diagram: layered brown earth-tone mountain profile rising from a thin blue sea line, set against a soft beige-tan (#C9B98F) parchment relief map background. Scene: side-on cross-section of Haiti's land: many layered brown earth-tone mountain profiles rising one behind another to the horizon, a navy pill 'BEYOND THE MOUNTAINS…'. Camera: Side-on, slow lateral track right. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Poetic, weary. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -284,7 +284,7 @@ Video Prompt: 2.5D animated map explainer illustration, side-on cross-section el
 
 ---
 
-Beat 21 · 0:47 · trim to ~1.2s · MODERN MAP
+Beat 21 · trim to ~1.2s · MODERN MAP
 [Script Segment] "Start with the map."
 
 Image Prompt: 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: a wide view of the Caribbean with the bright sky-blue ocean, Hispaniola centered, neighbouring islands in neutral grey, a navy pill 'START WITH THE MAP'. Camera: Top-down, smooth pull-back. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Orienting, clear. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -298,7 +298,7 @@ Video Prompt: 2.5D animated map explainer illustration in modern map mode: reali
 
 ---
 
-Beat 22 · 0:48 · trim to ~3.9s · MODERN MAP
+Beat 22 · trim to ~3.9s · MODERN MAP
 [Script Segment] "The island is called Hispaniola, and it sits between Cuba and Puerto Rico."
 
 Image Prompt: 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: Caribbean map with Cuba to the west and Puerto Rico to the east in neutral grey, Hispaniola highlighted with a white outline, navy pills 'CUBA', 'HISPANIOLA', 'PUERTO RICO'. Camera: Top-down, slow pan west to east. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Geographic, clear. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -312,7 +312,7 @@ Video Prompt: 2.5D animated map explainer illustration in modern map mode: reali
 
 ---
 
-Beat 23 · 0:52 · trim to ~3.3s · SEPIA MAP
+Beat 23 · trim to ~3.3s · SEPIA MAP
 [Script Segment] "In 1492, it was one of the first places Columbus landed."
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia parchment map of the Caribbean, three small glossy 3D wooden ships approaching Hispaniola's north coast, a gold '1492' top-left. Camera: Wide overhead, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Historical, momentous. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -326,7 +326,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 24 · 0:56 · trim to ~1.8s · SEPIA MAP
+Beat 24 · trim to ~1.8s · SEPIA MAP
 [Script Segment] "Its original Taíno name was Ayiti."
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia parchment map of Hispaniola as one undivided island, a navy pill label 'AYITI' at the center, small glossy 3D Taíno-style canoe on the coast. Camera: Top-down, slight push-in. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Ancient, respectful. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -340,7 +340,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 25 · 0:57 · trim to ~1.2s · CROSS-SECTION
+Beat 25 · trim to ~1.2s · CROSS-SECTION
 [Script Segment] "Land of high mountains."
 
 Image Prompt: 2.5D animated map explainer illustration, side-on cross-section elevation diagram: layered brown earth-tone mountain profile rising from a thin blue sea line, set against a soft beige-tan (#C9B98F) parchment relief map background. Scene: side-on cross-section elevation of Hispaniola from west to east, steep brown mountain profiles across the whole island, a navy pill 'LAND OF HIGH MOUNTAINS'. Camera: Side-on, slow pan left to right. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Grand, rugged. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -354,7 +354,7 @@ Video Prompt: 2.5D animated map explainer illustration, side-on cross-section el
 
 ---
 
-Beat 26 · 0:59 · trim to ~1.2s · CROSS-SECTION
+Beat 26 · trim to ~1.2s · CROSS-SECTION
 [Script Segment] "That name was earned."
 
 Image Prompt: 2.5D animated map explainer illustration, side-on cross-section elevation diagram: layered brown earth-tone mountain profile rising from a thin blue sea line, set against a soft beige-tan (#C9B98F) parchment relief map background. Scene: side-on cross-section elevation of Hispaniola from west to east, steep brown mountain profiles across the whole island, the peaks emphasised by a warm outer glow and a navy pill 'EARNED'. Camera: Side-on, slow push-in. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Affirming. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -368,7 +368,7 @@ Video Prompt: 2.5D animated map explainer illustration, side-on cross-section el
 
 ---
 
-Beat 27 · 1:00 · trim to ~2.1s · CROSS-SECTION
+Beat 27 · trim to ~2.1s · CROSS-SECTION
 [Script Segment] "The tallest peak in the whole Caribbean,"
 
 Image Prompt: 2.5D animated map explainer illustration, side-on cross-section elevation diagram: layered brown earth-tone mountain profile rising from a thin blue sea line, set against a soft beige-tan (#C9B98F) parchment relief map background. Scene: cross-section elevation of the Cordillera Central, one tallest peak glowing warm white in the eastern part of the island. Camera: Side-on, slow tilt up toward the tallest peak. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Building, impressive. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -382,7 +382,7 @@ Video Prompt: 2.5D animated map explainer illustration, side-on cross-section el
 
 ---
 
-Beat 28 · 1:02 · trim to ~2.7s · CROSS-SECTION
+Beat 28 · trim to ~2.7s · CROSS-SECTION
 [Script Segment] "Pico Duarte, stands here, over three thousand meters high."
 
 Image Prompt: 2.5D animated map explainer illustration, side-on cross-section elevation diagram: layered brown earth-tone mountain profile rising from a thin blue sea line, set against a soft beige-tan (#C9B98F) parchment relief map background. Scene: the tallest peak with a navy pill 'PICO DUARTE' and a large gold '3,000+ M' top-left, a tiny flag on the summit. Camera: Side-on, slow push toward the summit. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Impressive, proud. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -396,7 +396,7 @@ Video Prompt: 2.5D animated map explainer illustration, side-on cross-section el
 
 ---
 
-Beat 29 · 1:05 · trim to ~1.8s · MODERN MAP
+Beat 29 · trim to ~1.8s · MODERN MAP
 [Script Segment] "The border cuts the island unevenly."
 
 Image Prompt: 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: Hispaniola with a bright white border line slicing it, clearly off-center toward the west. Camera: Top-down, locked off. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Uneven, notable. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -410,7 +410,7 @@ Video Prompt: 2.5D animated map explainer illustration in modern map mode: reali
 
 ---
 
-Beat 30 · 1:06 · trim to ~1.5s · MODERN MAP
+Beat 30 · trim to ~1.5s · MODERN MAP
 [Script Segment] "Haiti gets the western third."
 
 Image Prompt: 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: the western third of Hispaniola filled red-orange, a navy pill 'HAITI · ~1/3'. Camera: Top-down, slight push west. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Clear, factual. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -424,7 +424,7 @@ Video Prompt: 2.5D animated map explainer illustration in modern map mode: reali
 
 ---
 
-Beat 31 · 1:08 · trim to ~3.0s · MODERN MAP
+Beat 31 · trim to ~3.0s · MODERN MAP
 [Script Segment] "The Dominican Republic gets the rest, almost twice the land."
 
 Image Prompt: 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: the eastern two-thirds filled mustard yellow, a navy pill 'DOMINICAN REP.' and a large gold '≈2×' top-left. Camera: Top-down, slight push east. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Clear, factual. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -438,7 +438,7 @@ Video Prompt: 2.5D animated map explainer illustration in modern map mode: reali
 
 ---
 
-Beat 32 · 1:11 · trim to ~1.8s · MODERN MAP
+Beat 32 · trim to ~1.8s · MODERN MAP
 [Script Segment] "And the land isn't equal either."
 
 Image Prompt: 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: Hispaniola split yellow and red-orange with subtle terrain relief showing on both sides, a navy pill 'NOT EQUAL LAND'. Camera: Top-down, slow pull-back. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Analytical. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -452,7 +452,7 @@ Video Prompt: 2.5D animated map explainer illustration in modern map mode: reali
 
 ---
 
-Beat 33 · 1:13 · trim to ~2.4s · MODERN MAP
+Beat 33 · trim to ~2.4s · MODERN MAP
 [Script Segment] "The trade winds blow in from the east."
 
 Image Prompt: 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: large curved white 3D wind arrows sweeping from the bright blue Atlantic toward the east coast of Hispaniola, a navy pill 'TRADE WINDS'. Camera: Oblique angle from the east, slow push west. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Dynamic, explanatory. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -466,7 +466,7 @@ Video Prompt: 2.5D animated map explainer illustration in modern map mode: reali
 
 ---
 
-Beat 34 · 1:15 · trim to ~3.9s · CROSS-SECTION
+Beat 34 · trim to ~3.9s · CROSS-SECTION
 [Script Segment] "They hit the Dominican mountains first and drop much of their rain there."
 
 Image Prompt: 2.5D animated map explainer illustration, side-on cross-section elevation diagram: layered brown earth-tone mountain profile rising from a thin blue sea line, set against a soft beige-tan (#C9B98F) parchment relief map background. Scene: side-on cross-section of the island, puffy rain clouds stacking against the eastern mountain slopes and releasing blue rain lines on the eastern side, labelled 'DOMINICAN SIDE'. Camera: Side-on, locked off. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Explanatory. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -480,7 +480,7 @@ Video Prompt: 2.5D animated map explainer illustration, side-on cross-section el
 
 ---
 
-Beat 35 · 1:19 · trim to ~4.5s · CROSS-SECTION
+Beat 35 · trim to ~4.5s · CROSS-SECTION
 [Script Segment] "By the time that air crosses into Haiti, a lot of the water is gone."
 
 Image Prompt: 2.5D animated map explainer illustration, side-on cross-section elevation diagram: layered brown earth-tone mountain profile rising from a thin blue sea line, set against a soft beige-tan (#C9B98F) parchment relief map background. Scene: side-on cross-section of Hispaniola with mountains in the middle, thin wispy dry clouds drifting past the peaks down into the western side with no rain, a navy pill 'RAIN SHADOW' over the western slope labelled 'HAITI'. Camera: Side-on, slow pan left. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Dry, explanatory. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -494,7 +494,7 @@ Video Prompt: 2.5D animated map explainer illustration, side-on cross-section el
 
 ---
 
-Beat 36 · 1:24 · trim to ~1.8s · MODERN MAP
+Beat 36 · trim to ~1.8s · MODERN MAP
 [Script Segment] "Haiti is steeper, drier and rockier."
 
 Image Prompt: 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: close terrain view of western Hispaniola in red-orange tint, steep sharp ridges, rocky slopes, navy pills 'STEEPER', 'DRIER', 'ROCKIER'. Camera: High oblique angle, slow pan. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Harsh, rugged. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -508,7 +508,7 @@ Video Prompt: 2.5D animated map explainer illustration in modern map mode: reali
 
 ---
 
-Beat 37 · 1:26 · trim to ~2.4s · MODERN MAP
+Beat 37 · trim to ~2.4s · MODERN MAP
 [Script Segment] "The Dominican side has the Cibao, a wide,"
 
 Image Prompt: 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: close terrain view of the Cibao valley in northern Dominican Republic, a broad flat valley tinted mustard yellow, navy pill 'CIBAO VALLEY'. Camera: High oblique angle, slow push. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Fertile, open. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -522,7 +522,7 @@ Video Prompt: 2.5D animated map explainer illustration in modern map mode: reali
 
 ---
 
-Beat 38 · 1:28 · trim to ~2.4s · MODERN MAP
+Beat 38 · trim to ~2.4s · MODERN MAP
 [Script Segment] "fertile valley with big rivers running through it."
 
 Image Prompt: 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: the Cibao valley with bright blue rivers winding through it and small glossy 3D green fields. Camera: High oblique, slow track along a river. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Rich, abundant. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -536,7 +536,7 @@ Video Prompt: 2.5D animated map explainer illustration in modern map mode: reali
 
 ---
 
-Beat 39 · 1:30 · trim to ~2.4s · DIORAMA
+Beat 39 · trim to ~2.4s · DIORAMA
 [Script Segment] "So, case closed? Geography did it? Not quite."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a glossy 3D wooden judge's gavel above a small globe-shaped prop labelled 'GEOGRAPHY' on a parchment map tile, a navy pill 'CASE CLOSED?'. Camera: Eye-level, slow push-in. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Wry, questioning. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -550,7 +550,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 40 · 1:33 · trim to ~2.4s · SEPIA MAP
+Beat 40 · trim to ~2.4s · SEPIA MAP
 [Script Segment] "Because about two hundred and fifty years ago,"
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia parchment map of Hispaniola, a gold '~250 YEARS AGO' rewinding counter top-left. Camera: Top-down, slow push-in. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Time-travel, curious. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -564,7 +564,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 41 · 1:35 · trim to ~3.0s · SEPIA MAP
+Beat 41 · trim to ~3.0s · SEPIA MAP
 [Script Segment] "the drier, steeper side was the rich one. By far."
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of Hispaniola, the western third glowing warm white and stacked with glossy 3D gold coins, the eastern side plain and dim. Camera: High three-quarter angle, slow push west. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Ironic, reversed. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -578,7 +578,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 42 · 1:38 · trim to ~4.5s · SEPIA MAP
+Beat 42 · trim to ~4.5s · SEPIA MAP
 [Script Segment] "In the 1780s, French Saint-Domingue, today's Haiti, was the most valuable colony in the world."
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of Hispaniola, western third glowing warm white with a navy pill 'SAINT-DOMINGUE (FRENCH)', a small 3D crown icon and a gold ribbon 'MOST VALUABLE COLONY'. Camera: Top-down, slow push. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Opulent, historic. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -592,7 +592,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 43 · 1:43 · trim to ~4.2s · DIORAMA
+Beat 43 · trim to ~4.2s · DIORAMA
 [Script Segment] "By one account, it grew about forty percent of the sugar sold in Europe,"
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a glossy 3D sugar bowl filled with white sugar cubes on a parchment map tile of Europe, with a large gold '~40%' top-left and a pill 'EUROPE'S SUGAR'. Camera: Eye-level close-up, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Rich, surprising. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -606,7 +606,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 44 · 1:47 · trim to ~2.1s · DIORAMA
+Beat 44 · trim to ~2.1s · DIORAMA
 [Script Segment] "and about sixty percent of the coffee."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a glossy 3D coffee cup next to a pile of coffee beans on a parchment map tile, a large gold '~60%' top-left, a pill 'EUROPE'S COFFEE'. Camera: Eye-level close-up, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Rich, surprising. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -620,7 +620,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 45 · 1:49 · trim to ~2.4s · SEPIA MAP
+Beat 45 · trim to ~2.4s · SEPIA MAP
 [Script Segment] "The Spanish side next door was a backwater."
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of Hispaniola, eastern side labelled 'SANTO DOMINGO (SPANISH)' in dark earth brown, nearly empty with a few tiny cattle figurines, a pill 'BACKWATER'. Camera: High three-quarter angle, slow push east. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Sleepy, quiet. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -634,7 +634,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 46 · 1:52 · trim to ~1.8s · SEPIA MAP
+Beat 46 · trim to ~1.8s · SEPIA MAP
 [Script Segment] "Same mountains. Same rain. Opposite fortunes."
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of Hispaniola, both halves with matching mountain relief and identical rain clouds, the west piled with gold, the east empty, navy pills 'SAME MOUNTAINS', 'SAME RAIN', 'OPPOSITE FORTUNES'. Camera: Top-down, locked off. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Paradoxical, rhythmic. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -648,7 +648,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 47 · 1:53 · trim to ~1.2s · DIORAMA
+Beat 47 · trim to ~1.2s · DIORAMA
 [Script Segment] "Geography sets the stage."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a small glossy 3D theater stage built on a parchment map tile of Hispaniola, mountains as the backdrop, the curtains open, an empty stage. Camera: Eye-level, slow push toward the stage. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Metaphorical, playful. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -662,7 +662,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 48 · 1:55 · trim to ~1.5s · DIORAMA
+Beat 48 · trim to ~1.5s · DIORAMA
 [Script Segment] "It doesn't write the play."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a small glossy 3D theater stage on a parchment map tile of Hispaniola, mountains as the backdrop, with a 3D quill pen and a blank script page floating beside it, the page stays blank. Camera: Eye-level, slow pull-back. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Wry, reflective. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -676,7 +676,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 49 · 1:56 · trim to ~2.1s · SEPIA MAP
+Beat 49 · trim to ~2.1s · SEPIA MAP
 [Script Segment] "But Saint-Domingue's wealth came with a catch."
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of the western third (Saint-Domingue) glowing, gold coins on it, charcoal storm clouds gathering at the frame edges, a navy pill 'THE CATCH'. Camera: Top-down, slow push-in. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Ominous, foreboding. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -690,7 +690,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 50 · 1:58 · trim to ~2.1s · DIORAMA
+Beat 50 · trim to ~2.1s · DIORAMA
 [Script Segment] "It had a name: the plantation system."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: glossy 3D diorama of a plantation estate on a parchment map tile: rows of sugar cane, a sugar mill with a windmill, a planter's house, a navy pill 'PLANTATION SYSTEM'. Camera: High three-quarter angle, slow orbit. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Industrial, cold. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -704,7 +704,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 51 · 2:00 · trim to ~3.6s · DIORAMA
+Beat 51 · trim to ~3.6s · DIORAMA
 [Script Segment] "And it had a rulebook, France's Code Noir, first issued in 1685."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a thick glossy 3D leather-bound rulebook with the title 'CODE NOIR' on the cover, a large gold '1685' top-left. Camera: Eye-level close-up, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Grave, formal. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -718,7 +718,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 52 · 2:04 · trim to ~1.8s · DIORAMA
+Beat 52 · trim to ~1.8s · DIORAMA
 [Script Segment] "The rulebook turned people into property."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: the open Code Noir book, its pages showing simple icons of people being turned into price tags, dimmed light, no realistic people. Camera: Overhead close-up, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Grave, sombre. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -732,7 +732,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 53 · 2:06 · trim to ~1.8s · DIORAMA
+Beat 53 · trim to ~1.8s · DIORAMA
 [Script Segment] "The mechanism was simple and brutal."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a glossy 3D mechanical gear system on a parchment tile labelled 'THE MECHANISM', grey gears turning, darker vignette. Camera: Eye-level, locked off. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Cold, brutal. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -746,7 +746,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 54 · 2:08 · trim to ~4.5s · DIORAMA
+Beat 54 · trim to ~4.5s · DIORAMA
 [Script Segment] "Sugar needs huge amounts of labor, at harvest, in the heat, at a killing pace."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a sugar cane field diorama under a harsh sun, tall cane, a glowing red thermometer icon and a clock icon spinning fast, tiny faceless figurines bent over. Camera: High angle, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Oppressive, punishing. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -760,7 +760,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 55 · 2:12 · trim to ~3.9s · SEPIA MAP
+Beat 55 · trim to ~3.9s · SEPIA MAP
 [Script Segment] "So planters bought enslaved Africans, worked them until they died, and bought more."
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of the Atlantic with a looping dotted route from West Africa to Saint-Domingue, small ship icons repeatedly arriving, a tally counter that keeps resetting. Camera: Wide overhead, locked off. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Grim, relentless. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -774,7 +774,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 56 · 2:16 · trim to ~3.9s · SEPIA MAP
+Beat 56 · trim to ~3.9s · SEPIA MAP
 [Script Segment] "By 1789, there were about half a million enslaved people in the colony."
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of Saint-Domingue with a large gold '~500,000' top-left and a dense cluster of tiny faceless figurine icons filling the western third. Camera: Top-down, slow pull-back to reveal the density. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Grave, overwhelming. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -788,7 +788,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 57 · 2:20 · trim to ~1.5s · SEPIA MAP
+Beat 57 · trim to ~1.5s · SEPIA MAP
 [Script Segment] "Hold on to that number."
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia parchment map of Saint-Domingue (western Hispaniola) with a large gold '~500,000' number top-left glowing with a pulsing warm outer glow, a navy pill 'HOLD ON TO THIS'. Camera: Top-down, push-in on the number. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Memorable, deliberate. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -802,7 +802,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 58 · 2:22 · trim to ~2.4s · DIORAMA
+Beat 58 · trim to ~2.4s · DIORAMA
 [Script Segment] "There were only around thirty thousand white colonists."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a tiny cluster of faceless figurines standing apart next to the huge crowd, a large gold '~30,000' top-left and a pill 'WHITE COLONISTS'. Camera: Eye-level, slow pull-back to show scale. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Lopsided, stark. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -816,7 +816,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 59 · 2:24 · trim to ~3.6s · SEPIA MAP
+Beat 59 · trim to ~3.6s · SEPIA MAP
 [Script Segment] "By one account, most of the enslaved had been born in Africa,"
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of the Atlantic with a long glowing dotted line from West Africa to Saint-Domingue, a pill 'BORN IN AFRICA'. Camera: Wide overhead, slow tracking along the line. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Sombre. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -830,7 +830,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 60 · 2:28 · trim to ~1.8s · DIORAMA
+Beat 60 · trim to ~1.8s · DIORAMA
 [Script Segment] "because so many died so fast."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: an hourglass prop on a parchment tile with sand running out very fast, darker vignette. Camera: Eye-level close-up, locked off. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Grim, urgent. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -844,7 +844,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 61 · 2:29 · trim to ~4.2s · DIORAMA
+Beat 61 · trim to ~4.2s · DIORAMA
 [Script Segment] "Many newly arrived captives, by some estimates, didn't survive more than a few years."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a small calendar prop with a few pages tearing off rapidly, a pill 'A FEW YEARS', under charcoal clouds. Camera: Eye-level close-up, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Grim, sobering. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -858,7 +858,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 62 · 2:34 · trim to ~3.3s · CROSS-SECTION
+Beat 62 · trim to ~3.3s · CROSS-SECTION
 [Script Segment] "And when coffee took off, the farms climbed the steep hills."
 
 Image Prompt: 2.5D animated map explainer illustration, side-on cross-section elevation diagram: layered brown earth-tone mountain profile rising from a thin blue sea line, set against a soft beige-tan (#C9B98F) parchment relief map background. Scene: side-on cross-section of steep Haitian hillsides with glossy 3D coffee bushes planted in rows climbing up the slopes, a pill 'COFFEE'. Camera: Side-on, slow tilt up the slope. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Expanding, uneasy. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -872,7 +872,7 @@ Video Prompt: 2.5D animated map explainer illustration, side-on cross-section el
 
 ---
 
-Beat 63 · 2:37 · trim to ~3.3s · CROSS-SECTION
+Beat 63 · trim to ~3.3s · CROSS-SECTION
 [Script Segment] "Forest came down from slopes too steep to hold their soil."
 
 Image Prompt: 2.5D animated map explainer illustration, side-on cross-section elevation diagram: layered brown earth-tone mountain profile rising from a thin blue sea line, set against a soft beige-tan (#C9B98F) parchment relief map background. Scene: side-on cross-section of a steep Haitian hillside above a thin blue sea line, trees disappearing and brown soil sliding down the slope toward the blue sea line. Camera: Side-on, locked off. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Erosive, worrying. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -886,7 +886,7 @@ Video Prompt: 2.5D animated map explainer illustration, side-on cross-section el
 
 ---
 
-Beat 64 · 2:40 · trim to ~3.9s · SEPIA MAP
+Beat 64 · trim to ~3.9s · SEPIA MAP
 [Script Segment] "The first brown scars on those ridges are older than the country itself."
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia relief map of Haiti's ridges with dark earth-brown (#6B4A2F) scar patches spreading across them. Camera: Low oblique, slow pan across ridges. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Scarred, sobering. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -900,7 +900,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 65 · 2:44 · trim to ~3.9s · DIORAMA
+Beat 65 · trim to ~3.9s · DIORAMA
 [Script Segment] "The colony didn't build schools or roads for the people who lived there."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a parchment map tile of Saint-Domingue with greyed-out placeholder outlines of a school and a road that never fill in, a pill 'NOT BUILT'. Camera: High three-quarter angle, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Absent, empty. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -914,7 +914,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 66 · 2:48 · trim to ~2.1s · SEPIA MAP
+Beat 66 · trim to ~2.1s · SEPIA MAP
 [Script Segment] "It built ports. To ship things out."
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of Saint-Domingue's coast with glowing port icons and small ships sailing away with gold cargo, arrows pointing out to sea. Camera: Top-down, slow pull-back. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Extractive. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -928,7 +928,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 67 · 2:50 · trim to ~0.9s · SEPIA MAP
+Beat 67 · trim to ~0.9s · SEPIA MAP
 [Script Segment] "Now look east."
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of Hispaniola, the camera turning its focus to the eastern side glowing warm white. Camera: Top-down, quick pan east. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Shifting, curious. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -942,7 +942,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 68 · 2:51 · trim to ~3.3s · SEPIA MAP
+Beat 68 · trim to ~3.3s · SEPIA MAP
 [Script Segment] "Spanish Santo Domingo had been Spain's first foothold in the Americas."
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of Hispaniola, the eastern side labelled 'SANTO DOMINGO' with a small 3D Spanish flag and a navy pill tag 'FIRST FOOTHOLD'. Camera: Top-down, slow push east. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Historic, founding. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -956,7 +956,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 69 · 2:55 · trim to ~3.9s · SEPIA MAP
+Beat 69 · trim to ~3.9s · SEPIA MAP
 [Script Segment] "But Spain found far more silver in Mexico and Peru, and lost interest."
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of the Americas with glowing silver-coloured arrows pulling away from Hispaniola toward Mexico and Peru, pills 'MEXICO' and 'PERU'. Camera: Wide overhead, slow pull-back. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Fading interest. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -970,7 +970,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 70 · 2:59 · trim to ~1.5s · DIORAMA
+Beat 70 · trim to ~1.5s · DIORAMA
 [Script Segment] "The east became cattle country."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a glossy 3D diorama of the eastern side: rolling grassland with cartoon cattle and a wooden fence, a pill 'CATTLE COUNTRY'. Camera: High three-quarter angle, slow orbit. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Pastoral, calm. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -984,7 +984,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 71 · 3:00 · trim to ~2.4s · DIORAMA
+Beat 71 · trim to ~2.4s · DIORAMA
 [Script Segment] "Open ranches, small farms, and very few people."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: open ranch land with a small house, a tiny vegetable plot and a handful of faceless figurines, lots of empty space. Camera: High angle, slow pan. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Sparse, peaceful. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -998,7 +998,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 72 · 3:03 · trim to ~4.2s · SEPIA MAP
+Beat 72 · trim to ~4.2s · SEPIA MAP
 [Script Segment] "In the 1780s, by one estimate, the whole Spanish colony had around 125,000 people."
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of the eastern colony, a large gold '~125,000' top-left, a small sparse cluster of figurines spread thinly across the land, a pill 'WHOLE COLONY'. Camera: Top-down, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Sparse, factual. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -1012,7 +1012,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 73 · 3:07 · trim to ~3.6s · DIORAMA
+Beat 73 · trim to ~3.6s · DIORAMA
 [Script Segment] "The French side had about four times that many enslaved people alone."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a side-by-side bar comparison on a parchment tile: a tall dark-brown bar labelled 'ENSLAVED, WEST' four times taller than a short bar labelled 'EVERYONE, EAST', a gold '×4'. Camera: Eye-level, locked off. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Stark, comparative. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -1026,7 +1026,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 74 · 3:10 · trim to ~2.1s · SEPIA MAP
+Beat 74 · trim to ~2.1s · SEPIA MAP
 [Script Segment] "Spain cared so little that, in 1795,"
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of Hispaniola with a gold '1795' top-left and a small 3D Spanish flag on the east. Camera: Top-down, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Dismissive. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -1040,7 +1040,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 75 · 3:13 · trim to ~3.6s · SEPIA MAP
+Beat 75 · trim to ~3.6s · SEPIA MAP
 [Script Segment] "it signed the whole colony over to France in a peace deal."
 
 Image Prompt: 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: the Spanish flag on the east swaps for a small 3D French flag, a rolled peace treaty scroll beside it. Camera: Top-down, locked off. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Indifferent, ironic. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -1054,7 +1054,7 @@ Video Prompt: 2.5D animated map explainer illustration in sepia parchment map mo
 
 ---
 
-Beat 76 · 3:16 · trim to ~0.6s · MODERN MAP
+Beat 76 · trim to ~0.6s · MODERN MAP
 [Script Segment] "Now compare."
 
 Image Prompt: 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: Hispaniola split mustard yellow east and red-orange west with a vertical red divider line and a pill 'COMPARE'. Camera: Top-down, locked off. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Analytical. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -1068,7 +1068,7 @@ Video Prompt: 2.5D animated map explainer illustration in modern map mode: reali
 
 ---
 
-Beat 77 · 3:17 · trim to ~4.2s · DIORAMA
+Beat 77 · trim to ~4.2s · DIORAMA
 [Script Segment] "West: one of the richest economies on Earth, owned by a few thousand families."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: the western side diorama: a huge pile of glossy 3D gold coins with a small group of three tiny faceless figurines in top hats sitting on top, a pill 'A FEW THOUSAND FAMILIES'. Camera: Low angle, slow tilt up the pile. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Opulent, unequal. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -1082,7 +1082,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 78 · 3:21 · trim to ~1.8s · DIORAMA
+Beat 78 · trim to ~1.8s · DIORAMA
 [Script Segment] "East: poor, quiet and mostly ignored."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: the eastern side diorama: a quiet empty grassland with one cow and a small house, a pill 'IGNORED'. Camera: Eye-level, slow pan. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Quiet, plain. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -1096,7 +1096,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 79 · 3:23 · trim to ~3.0s · DIORAMA
+Beat 79 · trim to ~3.0s · DIORAMA
 [Script Segment] "Neglect turned out to be a strange kind of protection."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a glossy 3D umbrella shielding the eastern side of a small Hispaniola map tile from charcoal storm clouds over the west, a pill 'NEGLECT = PROTECTION'. Camera: Eye-level, slow push. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Strange, ironic. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -1110,7 +1110,7 @@ Video Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy
 
 ---
 
-Beat 80 · 3:26 · trim to ~4.2s · DIORAMA
+Beat 80 · trim to ~4.2s · DIORAMA
 [Script Segment] "With no sugar boom, the east never built a society designed only for extraction."
 
 Image Prompt: 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a small factory-like sugar machine prop on the west, crossed out and absent on the east, a pill 'NO SUGAR BOOM'. Camera: Eye-level, slow pan from west to east. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Contrasting. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.

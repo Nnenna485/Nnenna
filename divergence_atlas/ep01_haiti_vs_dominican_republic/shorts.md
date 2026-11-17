@@ -14,20 +14,35 @@ Five vertical Shorts (9:16) cut from the full episode. Each runs 25–40 seconds
 ## Script
 
 In 1825, French warships sailed into a Caribbean harbor.
+
 They weren't there to fight.
+
 They were there to collect a bill.
+
 Twenty-one years earlier, enslaved people in Haiti had done the impossible.
+
 They won a revolution and built their own country.
+
 France's price for recognizing it?
+
 150 million francs.
+
 To repay the former slave owners for their lost property.
+
 The property was the people who had freed themselves.
+
 Haiti didn't have the money.
+
 So it borrowed from a French bank.
+
 Debt, to pay a ransom, owed to the same country.
+
 By one New York Times investigation, Haiti kept paying for about seventy years.
+
 Next door, the Dominican Republic never got that bill.
+
 Today it produces about five times as much per person.
+
 Same island. Different fates.
 
 ## ElevenLabs text
@@ -256,17 +271,29 @@ Same island. Different fates.
 ## Script
 
 From space, there's a line you can see on this island.
+
 Green on one side. Bare brown on the other.
+
 It's the border between Haiti and the Dominican Republic.
+
 In 1960, by one IMF estimate, both countries earned about the same per person.
+
 Today, the Dominican Republic produces about five times as much.
+
 Part of it is the map.
+
 The trade winds hit the Dominican mountains first and drop their rain there.
+
 Haiti sits in the rain shadow: steeper, drier, rockier.
+
 But here's the strange part.
+
 Two hundred and fifty years ago, that drier side was the richest colony on Earth.
+
 So geography sets the stage.
+
 It doesn't write the play.
+
 The full story is on our channel. Same map. Different fates.
 
 ## ElevenLabs text
@@ -456,16 +483,27 @@ The full story is on our channel. Same map. Different fates.
 ## Script
 
 What does the Eiffel Tower have to do with Haiti?
+
 More than you'd think.
+
 In 1825, France demanded 150 million francs from Haiti for recognizing its independence.
+
 Haiti had to borrow to pay.
+
 Then borrow again.
+
 Over the decades, French banks earned fees and interest on those loans.
+
 One of them was a bank called C.I.C.
+
 By one New York Times investigation, that same bank also helped finance the Eiffel Tower.
+
 Meanwhile, Haiti taxed its coffee farmers again and again to keep paying.
+
 Money that could have built schools and roads went to Paris instead.
+
 It estimated the lost growth at up to a hundred and fifteen billion dollars.
+
 Not stolen. Never earned.
 
 ## ElevenLabs text
@@ -642,16 +680,27 @@ Not stolen. Never earned.
 ## Script
 
 Both sides of this island got a dictator.
+
 Only one country came out with a state that still worked.
+
 In the Dominican Republic, Rafael Trujillo ruled from 1930 to 1961.
+
 He stole on an industrial scale.
+
 But he built roads, ports and a state that outlived him.
+
 And in 1937, his soldiers massacred thousands of Haitians along the border.
+
 In Haiti, François Duvalier, Papa Doc, took power in 1957.
+
 In 1964, he made himself president for life.
+
 He ruled through a private militia, the Tonton Macoutes.
+
 Doctors, teachers and engineers fled to Montreal, Miami and Paris.
+
 By the time his son fled in 1986, the state itself had rotted.
+
 Both were brutal. Only one left something that worked.
 
 ## ElevenLabs text
@@ -828,16 +877,27 @@ Both were brutal. Only one left something that worked.
 ## Script
 
 Haitians have a saying.
+
 "Dèyè mòn, gen mòn."
+
 Beyond the mountains, more mountains.
+
 For Haiti, it's history in four words.
+
 A plantation system built to work people to death.
+
 A revolution to escape it.
+
 A bill for that freedom.
+
 A U.S. occupation. A dictator for life.
+
 An earthquake Haitians named for the sound the ground made: Goudougoudou.
+
 Every time Haiti crossed one ridge, the next one was already there.
+
 But here's the honest part.
+
 The talent was never the problem.
 
 ## ElevenLabs text

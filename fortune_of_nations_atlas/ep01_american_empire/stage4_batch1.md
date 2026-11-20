@@ -355,7 +355,7 @@
 ---
 
 ### Beat 26 · trim to ~1.8s · SEPIA MAP
-**[Script Segment]** "It was won, in the end,"
+**[Script Segment]** "The war was won, in the end,"
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of Virginia's coast with a small peninsula highlighted in warm white and a navy pill 'YORKTOWN'. Camera: Top-down, slow push-in. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Decisive. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
 
@@ -411,7 +411,7 @@
 ---
 
 ### Beat 30 · trim to ~3.3s · DIORAMA
-**[Script Segment]** "But in 1787, it made one decision that shaped everything after."
+**[Script Segment]** "But in 1787, the new country made one decision that shaped everything after."
 
 **Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a glossy 3D quill signing a parchment document on a desk diorama, a gold '1787'. Camera: Eye-level close-up, slow push. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Momentous. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
 

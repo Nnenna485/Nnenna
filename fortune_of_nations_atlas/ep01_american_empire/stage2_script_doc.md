@@ -56,13 +56,13 @@ They crossed it anyway.
 
 That line was one of the reasons they rebelled.
 
-It was won, in the end, with a French army and a French fleet at Yorktown in 1781.
+The war was won, in the end, with a French army and a French fleet at Yorktown in 1781.
 
 And when the peace treaty was signed in 1783, it pushed the border west.
 
 All the way to the Mississippi River.
 
-But in 1787, it made one decision that shaped everything after.
+But in 1787, the new country made one decision that shaped everything after.
 
 A law called the Northwest Ordinance said new western land would not become colonies.
 

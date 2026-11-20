@@ -30,10 +30,10 @@ Behind it rose the Appalachian Mountains.
 In seventeen sixty-three, Britain had drawn a line along them and told colonists not to cross it.
 They crossed it anyway.
 That line was one of the reasons they rebelled.
-It was won, in the end, with a French army and a French fleet at Yorktown in seventeen eighty-one.
+The war was won, in the end, with a French army and a French fleet at Yorktown in seventeen eighty-one.
 And when the peace treaty was signed in seventeen eighty-three, it pushed the border west.
 All the way to the Mississippi River.
-But in seventeen eighty-seven, it made one decision that shaped everything after.
+But in seventeen eighty-seven, the new country made one decision that shaped everything after.
 A law called the Northwest Ordinance said new western land would not become colonies.
 It would become states.
 Equal to the original thirteen.

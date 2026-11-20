@@ -1,6 +1,6 @@
-# Stage 2: Full Script
+# Stage 2: Full Script (12-minute version)
 
-3,075 words · about 15 minutes 30 seconds at 3.3 words per second · one sentence per line.
+2,349 words · about 11 minutes 50 seconds at 3.3 words per second · one sentence per line.
 
 ## Cold open
 
@@ -23,8 +23,6 @@ Today that flag has fifty stars.
 The country behind it holds about a quarter of the world's economy.
 
 Its money is the money the rest of the world saves in.
-
-Its warships patrol every ocean.
 
 And its soldiers sit on bases across almost every continent.
 
@@ -58,15 +56,11 @@ They crossed it anyway.
 
 That line was one of the reasons they rebelled.
 
-The war for independence lasted eight years.
-
 It was won, in the end, with a French army and a French fleet at Yorktown in 1781.
 
 And when the peace treaty was signed in 1783, it pushed the border west.
 
 All the way to the Mississippi River.
-
-The new country was broke, divided and owed money to almost everyone.
 
 But in 1787, it made one decision that shaped everything after.
 
@@ -124,35 +118,9 @@ A year later, two army officers, Lewis and Clark, set off to find out what had a
 
 They walked and paddled all the way to the Pacific.
 
-Much of the way, they were guided by a young Shoshone woman named Sacagawea.
-
-In 1819, Spain handed over Florida.
-
 But the land Napoleon sold was not empty.
 
 And it was not really his to sell.
-
-Britain wasn't finished either.
-
-In the War of 1812, British troops marched into Washington and burned the White House.
-
-A few weeks later, a lawyer watched the British bombard a fort in Baltimore all night.
-
-At dawn, the flag was still flying.
-
-He wrote a poem about it, and it became the national anthem.
-
-America survived, and grew bolder.
-
-In 1823, President Monroe warned Europe to stay out of the Americas.
-
-The strange part?
-
-America didn't have the navy to back that up.
-
-For decades, Britain's navy enforced it, because it suited Britain's trade.
-
-Meanwhile, the country turned inward, toward the land.
 
 And the system that cleared that land had a name.
 
@@ -204,10 +172,6 @@ A year later, the two countries were at war.
 
 In 1847, American troops marched into Mexico City itself.
 
-Not every American approved.
-
-A young congressman named Abraham Lincoln demanded proof of where the war had really started.
-
 Years later, Ulysses Grant, who fought in it, called it one of the most unjust wars a stronger nation ever waged against a weaker one.
 
 Now compare.
@@ -218,23 +182,9 @@ After the 1848 peace treaty, it had lost about half its territory.
 
 California, Nevada, Utah, most of Arizona and New Mexico.
 
-In the north, a deal with Britain the same decade split the Oregon country along the forty-ninth parallel.
-
-Tens of thousands of settlers had already rolled west on the Oregon Trail in covered wagons.
-
-And in 1853, the United States bought one last strip from Mexico for a railroad route.
-
 In about seventy years, a coastline had become a continent.
 
 From ocean to ocean.
-
-And the people kept coming to fill it.
-
-The first census, in 1790, counted about four million Americans.
-
-By 1850, there were more than twenty-three million.
-
-Ships from Ireland and Germany unloaded new arrivals by the hundreds of thousands every year.
 
 But the new land came with a question nobody could avoid.
 
@@ -272,14 +222,6 @@ From 1861 to 1865, the Civil War killed somewhere between six hundred and twenty
 
 More than every other American war of that century put together.
 
-In the middle of that war, in 1862, Congress passed the Homestead Act.
-
-Any family willing to farm it could claim a hundred and sixty acres of western land, almost free.
-
-Millions of acres were handed out.
-
-Land that, a generation earlier, had belonged to someone else.
-
 But there's a strange footnote to the Mexican war.
 
 In January 1848, a carpenter building a sawmill in California saw something shining in the water.
@@ -289,8 +231,6 @@ Gold.
 Nine days later, Mexico signed the treaty that handed California to the United States.
 
 Mexico didn't know.
-
-Within a few years, hundreds of thousands of people had rushed west.
 
 Then, in 1867, the United States bought Alaska from Russia.
 
@@ -302,13 +242,7 @@ Remember three cents?
 
 Alaska came even cheaper.
 
-Critics called it a folly.
-
-Later came gold there too, and then oil.
-
 In 1869, a golden spike joined the first railroad to cross the continent.
-
-Now the empire could move people, soldiers and grain from coast to coast in about a week.
 
 And the railroad finished what removal had started.
 
@@ -320,15 +254,7 @@ In December 1890, at Wounded Knee in South Dakota, soldiers killed hundreds of L
 
 That same year, the census declared that the frontier was closed.
 
-By then, something else had happened quietly.
-
-America's factories had caught up with Britain's, and then passed them.
-
 By 1900, the country had about seventy-six million people and the biggest industrial economy on Earth.
-
-It had steel, oil, railroads and grain.
-
-What it didn't have was a reason to stop growing.
 
 ## The set-piece: 1898
 
@@ -336,11 +262,7 @@ The continent was full.
 
 So America looked at the sea.
 
-Hawaii came first.
-
-Its sugar plantations were run by American families who wanted to sell into the American market without paying tariffs.
-
-In January 1893, those businessmen, backed by US Marines, overthrew the islands' queen.
+In January 1893, American businessmen in Hawaii, backed by US Marines, overthrew the islands' queen.
 
 Then came Cuba.
 
@@ -348,15 +270,11 @@ On the night of the fifteenth of February 1898, the American battleship Maine ex
 
 Two hundred and sixty-six sailors died.
 
-Nobody knew what caused it.
-
 American newspapers blamed Spain anyway.
 
 About ten weeks later, the United States and Spain were at war.
 
 Six days after that, an American fleet destroyed the Spanish ships in Manila Bay.
-
-On the other side of the world.
 
 That July, Congress annexed Hawaii.
 
@@ -368,8 +286,6 @@ At the peace talks, Spain gave up Puerto Rico and Guam.
 
 And for twenty million dollars, it handed over the Philippines.
 
-More than seven thousand islands.
-
 Bought, like Louisiana and Alaska.
 
 Cuba was promised its independence, and got it in 1902.
@@ -377,8 +293,6 @@ Cuba was promised its independence, and got it in 1902.
 But only after accepting a clause that let the United States intervene whenever it chose.
 
 And a naval base at Guantánamo Bay, leased in 1903.
-
-It is still there today.
 
 In a single year, the United States had become an empire across two oceans.
 
@@ -402,47 +316,25 @@ In 1903, the United States helped Panama break away from Colombia.
 
 In return, it took control of a strip of land to build a canal between the oceans.
 
-When the Panama Canal opened in 1914, a ship from New York to San Francisco no longer had to sail around South America.
-
 In 1904, President Theodore Roosevelt declared America the policeman of the hemisphere.
 
 Marines landed again and again in Nicaragua, Haiti, the Dominican Republic and beyond.
 
 Historians call them the Banana Wars.
 
-In 1907, Roosevelt sent sixteen battleships, painted white, on a voyage around the world.
-
-The message was simple.
-
-America had arrived.
-
 Then Europe tore itself apart.
 
 America joined the First World War in 1917, late.
 
-By the end, about two million American soldiers had crossed to France.
-
 And America came out of the war as the world's banker.
 
-Britain and France now owed it billions.
-
-Meanwhile, at home, the economy kept booming and busting.
-
-A panic in 1893.
-
-Another in 1907.
-
-And then the worst crash of all.
+Then came the worst crash of all.
 
 In October 1929, the stock market collapsed.
 
 They called it the Great Crash.
 
 The depression that followed left about a quarter of American workers without a job.
-
-Banks failed by the thousands.
-
-President Franklin Roosevelt's New Deal put millions back to work building dams, roads and bridges.
 
 It took another world war to end it.
 
@@ -456,11 +348,7 @@ On the seventh of December 1941, Japanese planes struck the American fleet at Pe
 
 In Hawaii, the islands taken from their queen half a century before.
 
-More than two thousand Americans died that morning.
-
 America entered the war the next day.
-
-Four years later, Japan surrendered on the deck of an American battleship in Tokyo Bay.
 
 And in 1959, the flag's last two stars arrived.
 
@@ -482,10 +370,6 @@ When the Second World War ended, America was the only great power whose cities w
 
 By some estimates, it produced about half of everything the world's factories made.
 
-It also had a weapon nobody else had.
-
-In August 1945, two atomic bombs fell on Hiroshima and Nagasaki.
-
 And then America did something few empires had done before.
 
 It started letting go of colonies.
@@ -506,8 +390,6 @@ Then came the alliances.
 
 The Marshall Plan rebuilt Western Europe with about thirteen billion dollars of American money.
 
-Much of it came back as orders for American goods.
-
 One historian called it an empire by invitation.
 
 Countries asked to join.
@@ -520,13 +402,9 @@ The Cold War had begun.
 
 Korea, from 1950 to 1953.
 
-About thirty-six thousand Americans died there, and the peninsula is still split today.
-
 Then thirteen days in October 1962, when Soviet missiles in Cuba brought the world to the edge of nuclear war.
 
 Thirteen colonies, thirteen stars, thirteen days.
-
-In 1969, two Americans walked on the Moon.
 
 But this empire had its own dark side.
 
@@ -539,8 +417,6 @@ In 1973, it supported the generals who toppled Chile's president.
 And in Vietnam, more than fifty-eight thousand Americans died.
 
 Vietnamese deaths, by most estimates, ran into the millions.
-
-At home, hundreds of thousands marched against the war.
 
 For the first time, many Americans began to ask whether their country had become the kind of empire it was founded to escape.
 
@@ -560,17 +436,11 @@ Oil was priced in it.
 
 In the mid-1970s, by most accounts, Saudi Arabia agreed to keep selling its oil in dollars and to park its profits in American debt.
 
-Debts were written in it.
-
 The dollar no longer needed gold.
 
 It had the empire behind it.
 
 Today, almost nine in ten currency trades anywhere in the world have a dollar on one side.
-
-When America puts a country under sanctions, it can cut that country off from the system almost everyone else depends on.
-
-No colonial governor in history had a power like that.
 
 In December 1991, the Soviet Union dissolved.
 
@@ -582,17 +452,9 @@ In 1991, an American-led coalition pushed Iraq out of Kuwait in about six weeks.
 
 Commentators started calling it the unipolar moment.
 
-American films, music, software and brands spread almost everywhere.
-
-The empire was no longer just bases and money.
-
-It was the phone in your pocket.
-
 That moment didn't last.
 
 On the eleventh of September 2001, nineteen hijackers struck New York and Washington.
-
-Almost three thousand people died.
 
 And the most powerful empire in history went to war against an enemy without a country.
 
@@ -604,15 +466,11 @@ None of this was inevitable.
 
 The empire was built on land taken from Native nations and on the labor of enslaved people.
 
-More than five hundred Native nations are still recognized by the federal government today, many on a fraction of the land they once held.
-
 In 1993, Congress formally apologized for the overthrow of Hawaii's queen.
 
 A hundred years too late.
 
-Puerto Ricans were made American citizens in 1917.
-
-Yet today, about three and a half million Americans in Puerto Rico, Guam and other territories still can't vote for president.
+Today, about three and a half million Americans in Puerto Rico, Guam and other territories still can't vote for president.
 
 The empire has also failed, loudly.
 
@@ -648,8 +506,6 @@ Bases: by one count, about seven hundred and fifty, in about eighty countries.
 
 And eleven aircraft carriers, more than any other nation.
 
-A military budget bigger than the next several countries combined.
-
 Money: the dollar still makes up close to six in ten of the world's central bank reserves.
 
 ## Verdict
@@ -659,10 +515,6 @@ So how did thirteen colonies become the most powerful empire in history?
 Not just by conquering land.
 
 The land ran out in 1890.
-
-Not just by winning wars.
-
-It lost some of the biggest ones it fought.
 
 By turning land into money, and money into a system the rest of the world chose to join.
 

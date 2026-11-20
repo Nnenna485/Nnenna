@@ -1,6 +1,6 @@
 # Stage 4: Video + Image Prompts, Batch 1 (Beats 1–80)
 
-The script is split into 352 beats of at most 15 words each (3.3 words per second), delivered in five batches: 1–80, 81–160, 161–240, 241–320 and 321–352. Each prompt stands on its own and can be pasted directly. Colour code for this episode: the United States in mustard yellow, the powers it pushes aside (Britain, Spain, Mexico, the USSR) in red-orange, everyone else in grey.
+12-minute version. The script is split into 270 beats of at most 15 words each (3.3 words per second), delivered in four batches: 1–80, 81–160, 161–240 and 241–270. Each prompt stands on its own and can be pasted directly. Colour code for this episode: the United States in mustard yellow, the powers it pushes aside (Britain, Spain, Mexico, the USSR) in red-orange, everyone else in grey.
 
 ---
 
@@ -130,21 +130,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 10 · trim to ~1.5s · MODERN MAP
-**[Script Segment]** "Its warships patrol every ocean."
-
-**Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: a world map with bright blue oceans and small glossy 3D grey warship icons sailing in every ocean, each flying a tiny yellow pennant. Camera: Wide overhead, slow pan. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Commanding. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
-
-**Video Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Opening frame: a world map with bright blue oceans and small glossy 3D grey warship icons sailing in every ocean, each flying a tiny yellow pennant. Motion: the ships glide across the oceans, timed to complete within the first 1 second, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Wide overhead, slow pan. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette, consistent throughout. Mood: Commanding. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
-
-- Camera Angle: Wide overhead, slow pan
-- Lighting: Default
-- Mood: Commanding
-- Action: the ships glide across the oceans
-
----
-
-### Beat 11 · trim to ~3.0s · MODERN MAP
+### Beat 10 · trim to ~3.0s · MODERN MAP
 **[Script Segment]** "And its soldiers sit on bases across almost every continent."
 
 **Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: a world map with many small glossy mustard-yellow base pins scattered across Europe, Asia, Africa and the Pacific, a navy pill 'BASES'. Camera: Wide overhead, slow pull-back. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Global, imposing. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -158,7 +144,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 12 · trim to ~0.6s · MODERN MAP
+### Beat 11 · trim to ~0.6s · MODERN MAP
 **[Script Segment]** "That's strange."
 
 **Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: a world map with a glowing gold question mark hovering over North America. Camera: Top-down, quick gentle push. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Curious. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -172,7 +158,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 13 · trim to ~3.6s · MODERN MAP
+### Beat 12 · trim to ~3.6s · MODERN MAP
 **[Script Segment]** "Because the empire it rebelled against ruled a quarter of the planet."
 
 **Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: a world map with the old British Empire shown in red-orange across Canada, India, Africa and Australia, a navy pill 'BRITISH EMPIRE · ≈1/4 OF EARTH'. Camera: Wide overhead, slow pull-back. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Vast. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -186,7 +172,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 14 · trim to ~1.2s · DIORAMA
+### Beat 13 · trim to ~1.2s · DIORAMA
 **[Script Segment]** "And it still lost."
 
 **Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a small glossy 3D yellow flag standing triumphantly over a toppled red-orange crown on a parchment tile. Camera: Eye-level, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Surprising. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -200,7 +186,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 15 · trim to ~1.5s · MODERN MAP
+### Beat 14 · trim to ~1.5s · MODERN MAP
 **[Script Segment]** "So how did thirteen colonies…"
 
 **Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: the thin mustard-yellow strip of the thirteen colonies on the Atlantic coast of North America, a navy pill '13 COLONIES'. Camera: Top-down, slow push-in. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Questioning. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -214,7 +200,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 16 · trim to ~2.1s · MODERN MAP
+### Beat 15 · trim to ~2.1s · MODERN MAP
 **[Script Segment]** "become the most powerful empire in history?"
 
 **Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: a world map with mustard-yellow glowing over the United States and gold lines radiating out to bases and ports around the globe, a navy pill 'MOST POWERFUL EMPIRE?'. Camera: Wide overhead, slow pull-back. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Grand, questioning. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -228,7 +214,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 17 · trim to ~2.7s · DIORAMA
+### Beat 16 · trim to ~2.7s · DIORAMA
 **[Script Segment]** "The answer runs through land, islands, bases and money."
 
 **Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: four glossy 3D icons in a row on a parchment tile: a small land plot with a fence, a tropical island, a military base flag, a gold dollar coin, each with a navy pill 'LAND', 'ISLANDS', 'BASES', 'MONEY'. Camera: Eye-level, slow lateral track. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Structured. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -242,7 +228,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 18 · trim to ~1.2s · DIORAMA
+### Beat 17 · trim to ~1.2s · DIORAMA
 **[Script Segment]** "And here's the twist."
 
 **Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a glossy 3D magnifying glass with a warm glow on a parchment tile, a navy pill 'THE TWIST'. Camera: Eye-level, quick push. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Teasing. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -256,7 +242,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 19 · trim to ~3.9s · DIORAMA
+### Beat 18 · trim to ~3.9s · DIORAMA
 **[Script Segment]** "America became the most powerful empire in history after it stopped taking land."
 
 **Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a split diorama on a parchment tile: on the left a land plot with a red 'prohibited' icon over a fence post, on the right a towering gold dollar coin with a rising gold arrow. Camera: Low angle, slow push. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Paradoxical. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -270,7 +256,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 20 · trim to ~1.2s · MODERN MAP
+### Beat 19 · trim to ~1.2s · MODERN MAP
 **[Script Segment]** "Start with the map."
 
 **Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: North America in modern map mode with clear shaded relief, a navy pill 'START WITH THE MAP'. Camera: Top-down, smooth pull-back. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Orienting. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -284,7 +270,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 21 · trim to ~2.4s · MODERN MAP
+### Beat 20 · trim to ~2.4s · MODERN MAP
 **[Script Segment]** "In 1776, the United States was a coastline."
 
 **Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: the Atlantic coast of North America with the original thirteen states in mustard yellow, a gold '1776' at the top-left. Camera: Top-down, slow push-in. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Small beginnings. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -298,7 +284,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 22 · trim to ~1.8s · CROSS-SECTION
+### Beat 21 · trim to ~1.8s · CROSS-SECTION
 **[Script Segment]** "Behind it rose the Appalachian Mountains."
 
 **Image Prompt:** 2.5D animated map explainer illustration, side-on cross-section elevation diagram: layered brown earth-tone mountain profile rising from a thin blue sea line, set against a soft beige-tan (#C9B98F) parchment relief map background. Scene: side-on cross-section from the Atlantic coast inland, a low yellow coastal plain rising to the brown ridges of the Appalachian Mountains, a navy pill 'APPALACHIANS'. Camera: Side-on, slow pan inland. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Geographic. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -312,7 +298,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 23 · trim to ~2.7s · SEPIA MAP
+### Beat 22 · trim to ~2.7s · SEPIA MAP
 **[Script Segment]** "In 1763, Britain had drawn a line along them"
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia parchment map of the eastern colonies with a thick dark-brown line drawn along the Appalachian ridge, a gold '1763'. Camera: Top-down, slow track along the line. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Restrictive. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -326,7 +312,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 24 · trim to ~2.1s · SEPIA MAP
+### Beat 23 · trim to ~2.1s · SEPIA MAP
 **[Script Segment]** "and told colonists not to cross it."
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia parchment map of the eastern colonies with a thick dark-brown line along the Appalachian ridge and a red 'prohibited' sign on its western side and a navy pill 'DO NOT CROSS'. Camera: Top-down, locked off. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Stern. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -340,7 +326,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 25 · trim to ~1.2s · SEPIA MAP
+### Beat 24 · trim to ~1.2s · SEPIA MAP
 **[Script Segment]** "They crossed it anyway."
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of the Appalachian line with small wagon icons and dotted footpaths crossing over it into the west. Camera: Top-down, slow push west. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Defiant. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -354,7 +340,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 26 · trim to ~2.7s · SEPIA MAP
+### Beat 25 · trim to ~2.7s · SEPIA MAP
 **[Script Segment]** "That line was one of the reasons they rebelled."
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of the colonies with small glowing spark icons flaring along the Appalachian line, a navy pill 'REBELLION'. Camera: Top-down, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Tense. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -368,21 +354,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 27 · trim to ~2.1s · SEPIA MAP
-**[Script Segment]** "The war for independence lasted eight years."
-
-**Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of the east coast with small crossed-swords icons scattered across it, a gold '1775–1783' at the top-left. Camera: Top-down, slow pull-back. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Long war. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
-
-**Video Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Opening frame: sepia map of the east coast with small crossed-swords icons scattered across it, a gold '1775–1783' at the top-left. Motion: the crossed swords pop in across the map, timed to complete within the first 1 second, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Top-down, slow pull-back. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette, consistent throughout. Mood: Long war. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
-
-- Camera Angle: Top-down, slow pull-back
-- Lighting: Crisis
-- Mood: Long war
-- Action: the crossed swords pop in across the map
-
----
-
-### Beat 28 · trim to ~1.8s · SEPIA MAP
+### Beat 26 · trim to ~1.8s · SEPIA MAP
 **[Script Segment]** "It was won, in the end,"
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of Virginia's coast with a small peninsula highlighted in warm white and a navy pill 'YORKTOWN'. Camera: Top-down, slow push-in. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Decisive. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -396,7 +368,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 29 · trim to ~3.6s · SEPIA MAP
+### Beat 27 · trim to ~3.6s · SEPIA MAP
 **[Script Segment]** "with a French army and a French fleet at Yorktown in 1781."
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of the Yorktown peninsula with small glossy French warships blocking the bay and French blue flag icons beside yellow American flags on land, red-orange British flags trapped in the middle, a gold '1781'. Camera: High oblique angle, slow push. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Turning point. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -410,7 +382,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 30 · trim to ~4.2s · SEPIA MAP
+### Beat 28 · trim to ~4.2s · SEPIA MAP
 **[Script Segment]** "And when the peace treaty was signed in 1783, it pushed the border west."
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of eastern North America with the mustard-yellow United States expanding westward from the coast, a gold '1783'. Camera: Top-down, slow pull-back. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Expanding. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -424,7 +396,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 31 · trim to ~2.1s · MODERN MAP
+### Beat 29 · trim to ~2.1s · MODERN MAP
 **[Script Segment]** "All the way to the Mississippi River."
 
 **Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: North America with the young United States in mustard yellow reaching west to a bright blue Mississippi River, a navy pill 'MISSISSIPPI'. Camera: Top-down, slow track along the river. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Growing. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -438,21 +410,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 32 · trim to ~3.6s · DIORAMA
-**[Script Segment]** "The new country was broke, divided and owed money to almost everyone."
-
-**Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: an empty glossy 3D treasury chest with a stack of IOU papers beside it on a parchment tile of the young United States, charcoal clouds. Camera: Eye-level, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Fragile. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
-
-**Video Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Opening frame: an empty glossy 3D treasury chest with a stack of IOU papers beside it on a parchment tile of the young United States, charcoal clouds. Motion: IOU papers pile up, timed to complete within the first 3 seconds, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Eye-level, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette, consistent throughout. Mood: Fragile. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
-
-- Camera Angle: Eye-level, slow push
-- Lighting: Crisis
-- Mood: Fragile
-- Action: IOU papers pile up
-
----
-
-### Beat 33 · trim to ~3.3s · DIORAMA
+### Beat 30 · trim to ~3.3s · DIORAMA
 **[Script Segment]** "But in 1787, it made one decision that shaped everything after."
 
 **Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a glossy 3D quill signing a parchment document on a desk diorama, a gold '1787'. Camera: Eye-level close-up, slow push. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Momentous. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -466,7 +424,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 34 · trim to ~4.2s · SEPIA MAP
+### Beat 31 · trim to ~4.2s · SEPIA MAP
 **[Script Segment]** "A law called the Northwest Ordinance said new western land would not become colonies."
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of the Northwest Territory around the Great Lakes, a glossy 3D document labelled 'NORTHWEST ORDINANCE' beside it. Camera: Top-down, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Foundational. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -480,7 +438,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 35 · trim to ~1.2s · SEPIA MAP
+### Beat 32 · trim to ~1.2s · SEPIA MAP
 **[Script Segment]** "It would become states."
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of the Northwest Territory being divided into new state outlines that glow mustard yellow. Camera: Top-down, locked off. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Hopeful. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -494,7 +452,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 36 · trim to ~1.5s · DIORAMA
+### Beat 33 · trim to ~1.5s · DIORAMA
 **[Script Segment]** "Equal to the original thirteen."
 
 **Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a row of thirteen equal glossy 3D gold stars with a fourteenth identical star sliding in to join them on a parchment tile, a navy pill 'EQUAL'. Camera: Eye-level, slow lateral track. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Fair, principled. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -508,7 +466,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 37 · trim to ~3.0s · DIORAMA
+### Beat 34 · trim to ~3.0s · DIORAMA
 **[Script Segment]** "Every empire before had kept its conquests below the capital."
 
 **Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a tall glossy 3D capital building on a pedestal with small colony huts placed below it on lower steps, on a parchment tile. Camera: Low angle, slow tilt. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Old order. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -522,7 +480,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 38 · trim to ~1.8s · DIORAMA
+### Beat 35 · trim to ~1.8s · DIORAMA
 **[Script Segment]** "This one promised to promote them."
 
 **Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: small new state buildings rising up the steps to stand level with a capital building on a parchment tile. Camera: Eye-level, slow push. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Promising. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -536,7 +494,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 39 · trim to ~3.3s · DIORAMA
+### Beat 36 · trim to ~3.3s · DIORAMA
 **[Script Segment]** "That single rule is why the flag would keep gaining stars."
 
 **Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a glossy 3D blue flag canton with stars being added one by one, a counter showing 13 rising, on a parchment tile. Camera: Eye-level close-up, slow push. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Growing. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -550,7 +508,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 40 · trim to ~2.4s · MODERN MAP
+### Beat 37 · trim to ~2.4s · MODERN MAP
 **[Script Segment]** "Now look at what that map was hiding."
 
 **Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: North America in modern map mode with a glowing magnifying glass sliding over it, a navy pill 'WHAT THE MAP HID'. Camera: Top-down, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Investigative. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -564,7 +522,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 41 · trim to ~3.9s · MODERN MAP
+### Beat 38 · trim to ~3.9s · MODERN MAP
 **[Script Segment]** "Two oceans, one on each side, keeping every great European army far away."
 
 **Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: North America with the Atlantic and Pacific oceans glowing bright blue on each side and small grey European army icons stuck far away across the Atlantic. Camera: Wide overhead, slow pull-back. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Protected. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -578,7 +536,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 42 · trim to ~2.4s · MODERN MAP
+### Beat 39 · trim to ~2.4s · MODERN MAP
 **[Script Segment]** "The richest farmland on Earth, in the middle."
 
 **Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: the American Midwest in modern map mode with golden wheat fields glowing across the center of the continent, a navy pill 'FARMLAND'. Camera: High oblique angle, slow pan. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Rich. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -592,7 +550,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 43 · trim to ~1.8s · MODERN MAP
+### Beat 40 · trim to ~1.8s · MODERN MAP
 **[Script Segment]** "And the Mississippi, a river system"
 
 **Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: the Mississippi River system drawn as a bright blue branching network across the middle of North America. Camera: Top-down, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Connected. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -606,7 +564,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 44 · trim to ~4.2s · DIORAMA
+### Beat 41 · trim to ~4.2s · DIORAMA
 **[Script Segment]** "that carries a farmer's grain to the sea with no mountains in the way."
 
 **Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a small glossy 3D grain barge floating down a blue river on a parchment tile from a farm to a seaport with no hills along the way. Camera: Eye-level, slow track with the barge. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Easy flow. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -620,7 +578,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 45 · trim to ~3.3s · MODERN MAP
+### Beat 42 · trim to ~3.3s · MODERN MAP
 **[Script Segment]** "If you had to design a country to become a superpower,"
 
 **Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: North America with oceans on both sides, farmland and rivers all glowing together, a navy pill 'BUILT FOR POWER'. Camera: Wide overhead, slow pull-back. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Ideal. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -634,7 +592,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 46 · trim to ~1.5s · DIORAMA
+### Beat 43 · trim to ~1.5s · DIORAMA
 **[Script Segment]** "you'd draw something like this."
 
 **Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a glossy 3D pencil sketching the outline of the United States onto a blank parchment tile. Camera: Overhead, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Design. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -648,7 +606,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 47 · trim to ~1.8s · DIORAMA
+### Beat 44 · trim to ~1.8s · DIORAMA
 **[Script Segment]** "So, geography did it? Not quite."
 
 **Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a glossy 3D judge's gavel above a small globe labelled 'GEOGRAPHY', a navy pill 'NOT QUITE'. Camera: Eye-level, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Wry. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -662,7 +620,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 48 · trim to ~2.7s · SEPIA MAP
+### Beat 45 · trim to ~2.7s · SEPIA MAP
 **[Script Segment]** "Because that same land was already full of people."
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of North America covered with many small clusters of tiny faceless figurines and village icons across the whole continent. Camera: Top-down, slow pull-back. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Inhabited. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -676,7 +634,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 49 · trim to ~4.2s · SEPIA MAP
+### Beat 46 · trim to ~4.2s · SEPIA MAP
 **[Script Segment]** "And it was claimed by France, Spain, Britain and dozens of Native nations first."
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of North America divided into claims: French blue, Spanish gold, British red-orange and many small earth-brown Native nation regions, a navy pill 'ALREADY CLAIMED'. Camera: Top-down, locked off. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Crowded. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -690,7 +648,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 50 · trim to ~3.0s · SEPIA MAP
+### Beat 47 · trim to ~3.0s · SEPIA MAP
 **[Script Segment]** "In 1803, France needed money for its wars in Europe."
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of Europe with France highlighted and small cannon and coin icons, a gold '1803'. Camera: Top-down, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Strained. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -704,7 +662,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 51 · trim to ~2.4s · SEPIA MAP
+### Beat 48 · trim to ~2.4s · SEPIA MAP
 **[Script Segment]** "And it had just lost its richest colony."
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of the Caribbean with Haiti (western Hispaniola) glowing warm white, a French flag icon falling away from it. Camera: Top-down, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Loss. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -718,7 +676,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 52 · trim to ~2.4s · SEPIA MAP
+### Beat 49 · trim to ~2.4s · SEPIA MAP
 **[Script Segment]** "In Haiti, formerly enslaved soldiers had destroyed the"
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of Haiti with small glossy 3D toy soldier figurines standing on the island and a broken chain icon. Camera: High oblique angle, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Defiant. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -732,7 +690,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 53 · trim to ~2.4s · SEPIA MAP
+### Beat 50 · trim to ~2.4s · SEPIA MAP
 **[Script Segment]** "army Napoleon sent to take the island back."
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of the Atlantic with a fleet of small French ships turning back from Haiti, some sinking under charcoal clouds. Camera: Wide overhead, locked off. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Defeat. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -746,7 +704,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 54 · trim to ~3.3s · SEPIA MAP
+### Beat 51 · trim to ~3.3s · SEPIA MAP
 **[Script Segment]** "Without Haiti, Napoleon had little use for the vast American interior"
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map linking Haiti and the vast Louisiana territory with a dotted supply line, the line breaking in the middle. Camera: Wide overhead, slow pan. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Broken plan. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -760,7 +718,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 55 · trim to ~1.8s · SEPIA MAP
+### Beat 52 · trim to ~1.8s · SEPIA MAP
 **[Script Segment]** "that was meant to feed it."
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of the Louisiana territory in the middle of North America glowing warm white, with a navy pill 'NO LONGER NEEDED'. Camera: Top-down, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Indifferent. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -774,7 +732,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 56 · trim to ~3.3s · SEPIA MAP
+### Beat 53 · trim to ~3.3s · SEPIA MAP
 **[Script Segment]** "So he sold the whole Louisiana territory to the United States."
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of North America where the huge Louisiana territory flips from French blue to mustard yellow, a gold '1803'. Camera: Top-down, slow pull-back. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Historic. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -788,7 +746,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 57 · trim to ~1.2s · DIORAMA
+### Beat 54 · trim to ~1.2s · DIORAMA
 **[Script Segment]** "About fifteen million dollars."
 
 **Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a glossy 3D stack of gold coins with a large gold '$15 MILLION' at the top-left on a parchment tile. Camera: Low angle, slow push. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Bargain. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -802,7 +760,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 58 · trim to ~1.5s · DIORAMA
+### Beat 55 · trim to ~1.5s · DIORAMA
 **[Script Segment]** "Roughly three cents an acre."
 
 **Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a small glossy 3D price tag reading '3¢' attached to a square of land on a parchment tile, a navy pill 'PER ACRE'. Camera: Eye-level close-up, slow push. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Astonishing. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -816,7 +774,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 59 · trim to ~1.5s · DIORAMA
+### Beat 56 · trim to ~1.5s · DIORAMA
 **[Script Segment]** "Hold on to that number."
 
 **Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a small glossy 3D price tag reading '3¢' on a square of land on a parchment tile, glowing with a pulsing warm outline, a navy pill 'HOLD ON TO THIS'. Camera: Eye-level close-up, push-in. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Memorable. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -830,7 +788,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 60 · trim to ~1.8s · MODERN MAP
+### Beat 57 · trim to ~1.8s · MODERN MAP
 **[Script Segment]** "Overnight, the country doubled in size."
 
 **Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: the United States in mustard yellow doubling in size as the Louisiana territory joins it, a large gold '×2' at the top-left. Camera: Top-down, slow pull-back. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Huge. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -844,7 +802,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 61 · trim to ~2.7s · SEPIA MAP
+### Beat 58 · trim to ~2.7s · SEPIA MAP
 **[Script Segment]** "A year later, two army officers, Lewis and Clark,"
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map with two tiny faceless explorer figurines in hats and a small canoe at the start of the Missouri River, a gold '1804'. Camera: Top-down, slow push. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Adventurous. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -858,7 +816,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 62 · trim to ~3.0s · SEPIA MAP
+### Beat 59 · trim to ~3.0s · SEPIA MAP
 **[Script Segment]** "set off to find out what had actually been bought."
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of the Louisiana territory with a dotted exploration route winding west across it, question-mark icons over unknown areas. Camera: Top-down, slow track along the route. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Curious. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -872,7 +830,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 63 · trim to ~3.0s · SEPIA MAP
+### Beat 60 · trim to ~3.0s · SEPIA MAP
 **[Script Segment]** "They walked and paddled all the way to the Pacific."
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of western North America with a dotted exploration route reaching the Pacific coast and a tiny flag planted at the shore. Camera: Top-down, slow pan to the Pacific. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Achievement. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -886,35 +844,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 64 · trim to ~4.2s · SEPIA MAP
-**[Script Segment]** "Much of the way, they were guided by a young Shoshone woman named Sacagawea."
-
-**Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map with a small faceless guide figurine leading the explorer figurines along the route, a navy pill 'SACAGAWEA'. Camera: High oblique angle, slow push. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Respectful. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
-
-**Video Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Opening frame: sepia map with a small faceless guide figurine leading the explorer figurines along the route, a navy pill 'SACAGAWEA'. Motion: the guide figurine steps forward, timed to complete within the first 3 seconds, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: High oblique angle, slow push. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette, consistent throughout. Mood: Respectful. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
-
-- Camera Angle: High oblique angle, slow push
-- Lighting: Warm/hopeful
-- Mood: Respectful
-- Action: the guide figurine steps forward
-
----
-
-### Beat 65 · trim to ~1.8s · SEPIA MAP
-**[Script Segment]** "In 1819, Spain handed over Florida."
-
-**Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of Florida flipping from Spanish gold to mustard yellow, a gold '1819'. Camera: Top-down, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Steady growth. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
-
-**Video Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Opening frame: sepia map of Florida flipping from Spanish gold to mustard yellow, a gold '1819'. Motion: Florida changes color, timed to complete within the first 1 second, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Top-down, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette, consistent throughout. Mood: Steady growth. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
-
-- Camera Angle: Top-down, slow push
-- Lighting: Default
-- Mood: Steady growth
-- Action: Florida changes color
-
----
-
-### Beat 66 · trim to ~2.4s · SEPIA MAP
+### Beat 61 · trim to ~2.4s · SEPIA MAP
 **[Script Segment]** "But the land Napoleon sold was not empty."
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of the Louisiana territory filled with small Native village icons and figurines. Camera: Top-down, slow pull-back. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Inhabited. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -928,7 +858,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 67 · trim to ~2.4s · DIORAMA
+### Beat 62 · trim to ~2.4s · DIORAMA
 **[Script Segment]** "And it was not really his to sell."
 
 **Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a sale document on a parchment tile with a red question-mark stamp on it, a navy pill 'NOT HIS TO SELL'. Camera: Eye-level close-up, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Doubtful. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -942,175 +872,7 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 
 ---
 
-### Beat 68 · trim to ~1.2s · SEPIA MAP
-**[Script Segment]** "Britain wasn't finished either."
-
-**Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of North America with red-orange British Canada pressing down on the yellow United States. Camera: Top-down, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Threat. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
-
-**Video Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Opening frame: sepia map of North America with red-orange British Canada pressing down on the yellow United States. Motion: the red-orange border pulses, timed to complete within the first 1 second, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Top-down, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette, consistent throughout. Mood: Threat. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
-
-- Camera Angle: Top-down, slow push
-- Lighting: Crisis
-- Mood: Threat
-- Action: the red-orange border pulses
-
----
-
-### Beat 69 · trim to ~4.5s · DIORAMA
-**[Script Segment]** "In the War of 1812, British troops marched into Washington and burned the White House."
-
-**Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a small glossy 3D White House building with thin smoke rising from it on a parchment tile, tiny red-orange soldier figurines nearby, a gold '1814'. Camera: Eye-level, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Humiliating. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
-
-**Video Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Opening frame: a small glossy 3D White House building with thin smoke rising from it on a parchment tile, tiny red-orange soldier figurines nearby, a gold '1814'. Motion: smoke curls up from the roof, timed to complete within the first 3 seconds, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Eye-level, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette, consistent throughout. Mood: Humiliating. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
-
-- Camera Angle: Eye-level, slow push
-- Lighting: Crisis
-- Mood: Humiliating
-- Action: smoke curls up from the roof
-
----
-
-### Beat 70 · trim to ~1.2s · DIORAMA
-**[Script Segment]** "A few weeks later,"
-
-**Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a glossy 3D calendar flipping a few pages on a parchment tile. Camera: Eye-level close-up. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Transitional. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
-
-**Video Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Opening frame: a glossy 3D calendar flipping a few pages on a parchment tile. Motion: calendar pages flip, timed to complete within the first 1 second, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Eye-level close-up. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette, consistent throughout. Mood: Transitional. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
-
-- Camera Angle: Eye-level close-up
-- Lighting: Default
-- Mood: Transitional
-- Action: calendar pages flip
-
----
-
-### Beat 71 · trim to ~3.6s · DIORAMA
-**[Script Segment]** "a lawyer watched the British bombard a fort in Baltimore all night."
-
-**Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a small star-shaped fort diorama on a harbor at night with red glow flashes from distant ships, a navy pill 'BALTIMORE'. Camera: High three-quarter angle, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Tense. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
-
-**Video Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Opening frame: a small star-shaped fort diorama on a harbor at night with red glow flashes from distant ships, a navy pill 'BALTIMORE'. Motion: flashes light up the night sky, timed to complete within the first 3 seconds, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: High three-quarter angle, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette, consistent throughout. Mood: Tense. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
-
-- Camera Angle: High three-quarter angle, slow push
-- Lighting: Crisis
-- Mood: Tense
-- Action: flashes light up the night sky
-
----
-
-### Beat 72 · trim to ~2.1s · DIORAMA
-**[Script Segment]** "At dawn, the flag was still flying."
-
-**Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a small star-shaped fort diorama on a harbor at dawn with a glossy 3D American flag still flying above it. Camera: Low angle, slow tilt up to the flag. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Defiant, proud. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
-
-**Video Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Opening frame: a small star-shaped fort diorama on a harbor at dawn with a glossy 3D American flag still flying above it. Motion: the flag waves in the morning light, timed to complete within the first 1 second, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Low angle, slow tilt up to the flag. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette, consistent throughout. Mood: Defiant, proud. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
-
-- Camera Angle: Low angle, slow tilt up to the flag
-- Lighting: Warm/hopeful
-- Mood: Defiant, proud
-- Action: the flag waves in the morning light
-
----
-
-### Beat 73 · trim to ~3.6s · DIORAMA
-**[Script Segment]** "He wrote a poem about it, and it became the national anthem."
-
-**Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a glossy 3D sheet of handwritten poetry and a quill on a desk, a small flag icon in the corner, a navy pill 'ANTHEM'. Camera: Overhead, slow push. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Proud. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
-
-**Video Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Opening frame: a glossy 3D sheet of handwritten poetry and a quill on a desk, a small flag icon in the corner, a navy pill 'ANTHEM'. Motion: the quill finishes the final line, timed to complete within the first 3 seconds, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Overhead, slow push. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette, consistent throughout. Mood: Proud. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
-
-- Camera Angle: Overhead, slow push
-- Lighting: Warm/hopeful
-- Mood: Proud
-- Action: the quill finishes the final line
-
----
-
-### Beat 74 · trim to ~1.5s · MODERN MAP
-**[Script Segment]** "America survived, and grew bolder."
-
-**Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: the United States in mustard yellow with a rising gold arrow above it. Camera: Top-down, slow pull-back. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Confident. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
-
-**Video Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Opening frame: the United States in mustard yellow with a rising gold arrow above it. Motion: the gold arrow rises, timed to complete within the first 1 second, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Top-down, slow pull-back. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette, consistent throughout. Mood: Confident. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
-
-- Camera Angle: Top-down, slow pull-back
-- Lighting: Warm/hopeful
-- Mood: Confident
-- Action: the gold arrow rises
-
----
-
-### Beat 75 · trim to ~3.6s · MODERN MAP
-**[Script Segment]** "In 1823, President Monroe warned Europe to stay out of the Americas."
-
-**Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: the Americas in modern map mode with a bold yellow line drawn around North and South America and European red-orange icons kept outside, a gold '1823'. Camera: Wide overhead, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Bold. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
-
-**Video Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Opening frame: the Americas in modern map mode with a bold yellow line drawn around North and South America and European red-orange icons kept outside, a gold '1823'. Motion: the protective line draws around the Americas, timed to complete within the first 3 seconds, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Wide overhead, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette, consistent throughout. Mood: Bold. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
-
-- Camera Angle: Wide overhead, slow push
-- Lighting: Default
-- Mood: Bold
-- Action: the protective line draws around the Americas
-
----
-
-### Beat 76 · trim to ~0.9s · DIORAMA
-**[Script Segment]** "The strange part?"
-
-**Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a glossy 3D magnifying glass over a bold yellow line circling the Americas on a map tile, a navy pill 'THE STRANGE PART'. Camera: Eye-level, quick push. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Teasing. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
-
-**Video Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Opening frame: a glossy 3D magnifying glass over a bold yellow line circling the Americas on a map tile, a navy pill 'THE STRANGE PART'. Motion: the magnifying glass slides in, timed to complete within the first 1 second, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Eye-level, quick push. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette, consistent throughout. Mood: Teasing. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
-
-- Camera Angle: Eye-level, quick push
-- Lighting: Highlight
-- Mood: Teasing
-- Action: the magnifying glass slides in
-
----
-
-### Beat 77 · trim to ~2.7s · DIORAMA
-**[Script Segment]** "America didn't have the navy to back that up."
-
-**Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a tiny glossy 3D American toy ship beside a large empty harbor on a parchment tile, a navy pill 'NO NAVY'. Camera: Eye-level, slow pan. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Wry. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
-
-**Video Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Opening frame: a tiny glossy 3D American toy ship beside a large empty harbor on a parchment tile, a navy pill 'NO NAVY'. Motion: the tiny ship bobs alone, timed to complete within the first 2 seconds, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Eye-level, slow pan. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette, consistent throughout. Mood: Wry. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
-
-- Camera Angle: Eye-level, slow pan
-- Lighting: Default
-- Mood: Wry
-- Action: the tiny ship bobs alone
-
----
-
-### Beat 78 · trim to ~3.3s · MODERN MAP
-**[Script Segment]** "For decades, Britain's navy enforced it, because it suited Britain's trade."
-
-**Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: the Atlantic with large grey British warship icons patrolling between Europe and the Americas, gold trade lines running between them. Camera: Wide overhead, slow pan. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Ironic. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
-
-**Video Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Opening frame: the Atlantic with large grey British warship icons patrolling between Europe and the Americas, gold trade lines running between them. Motion: the warships patrol along the trade lines, timed to complete within the first 3 seconds, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Wide overhead, slow pan. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette, consistent throughout. Mood: Ironic. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
-
-- Camera Angle: Wide overhead, slow pan
-- Lighting: Default
-- Mood: Ironic
-- Action: the warships patrol along the trade lines
-
----
-
-### Beat 79 · trim to ~2.4s · MODERN MAP
-**[Script Segment]** "Meanwhile, the country turned inward, toward the land."
-
-**Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: the United States in mustard yellow with the camera turning from the coast toward the vast interior. Camera: Top-down, slow pan west. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Inward. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
-
-**Video Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Opening frame: the United States in mustard yellow with the camera turning from the coast toward the vast interior. Motion: the interior brightens, timed to complete within the first 2 seconds, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Top-down, slow pan west. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette, consistent throughout. Mood: Inward. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
-
-- Camera Angle: Top-down, slow pan west
-- Lighting: Default
-- Mood: Inward
-- Action: the interior brightens
-
----
-
-### Beat 80 · trim to ~3.0s · SEPIA MAP
+### Beat 63 · trim to ~3.0s · SEPIA MAP
 **[Script Segment]** "And the system that cleared that land had a name."
 
 **Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of the eastern United States with Native nation regions in earth brown and a dark gear icon hovering over them, a navy pill 'THE SYSTEM'. Camera: Top-down, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Ominous. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
@@ -1121,5 +883,243 @@ The script is split into 352 beats of at most 15 words each (3.3 words per secon
 - Lighting: Crisis
 - Mood: Ominous
 - Action: the gear starts turning
+
+---
+
+### Beat 64 · trim to ~2.4s · DIORAMA
+**[Script Segment]** "In 1830, Congress passed the Indian Removal Act."
+
+**Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a glossy 3D rolled law document with a red wax seal labelled 'INDIAN REMOVAL ACT' on a parchment tile of the eastern United States, a gold '1830' at the top-left. Camera: Eye-level close-up, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Grave, formal. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
+
+**Video Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Opening frame: a glossy 3D rolled law document with a red wax seal labelled 'INDIAN REMOVAL ACT' on a parchment tile of the eastern United States, a gold '1830' at the top-left. Motion: the document unrolls and the seal stamps down, timed to complete within the first 2 seconds, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Eye-level close-up, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette, consistent throughout. Mood: Grave, formal. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
+
+- Camera Angle: Eye-level close-up, slow push
+- Lighting: Crisis
+- Mood: Grave, formal
+- Action: the document unrolls and the seal stamps down
+
+---
+
+### Beat 65 · trim to ~1.2s · DIORAMA
+**[Script Segment]** "The mechanism was simple."
+
+**Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a glossy 3D grey gear mechanism on a parchment tile labelled 'THE MECHANISM', darker vignette. Camera: Eye-level, locked off. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Cold. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
+
+**Video Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Opening frame: a glossy 3D grey gear mechanism on a parchment tile labelled 'THE MECHANISM', darker vignette. Motion: the gears start turning, timed to complete within the first 1 second, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Eye-level, locked off. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette, consistent throughout. Mood: Cold. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
+
+- Camera Angle: Eye-level, locked off
+- Lighting: Crisis
+- Mood: Cold
+- Action: the gears start turning
+
+---
+
+### Beat 66 · trim to ~1.5s · DIORAMA
+**[Script Segment]** "Treaties, then pressure, then soldiers."
+
+**Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: three glossy 3D icons in a row on a parchment tile: a signed treaty scroll, a heavy downward arrow, and a small row of faceless toy soldier figurines. Camera: Eye-level, slow lateral track. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Escalating. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
+
+**Video Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Opening frame: three glossy 3D icons in a row on a parchment tile: a signed treaty scroll, a heavy downward arrow, and a small row of faceless toy soldier figurines. Motion: the three icons pop in one after another, timed to complete within the first 1 second, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Eye-level, slow lateral track. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette, consistent throughout. Mood: Escalating. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
+
+- Camera Angle: Eye-level, slow lateral track
+- Lighting: Crisis
+- Mood: Escalating
+- Action: the three icons pop in one after another
+
+---
+
+### Beat 67 · trim to ~4.2s · SEPIA MAP
+**[Script Segment]** "Tens of thousands of people from nations east of the Mississippi were marched west."
+
+**Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia parchment map of the eastern United States with long dotted paths of tiny faceless figurines moving from the southeast across the Mississippi River to the west, earth-brown home regions fading behind them. Camera: Top-down, slow track west. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Somber. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
+
+**Video Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Opening frame: sepia parchment map of the eastern United States with long dotted paths of tiny faceless figurines moving from the southeast across the Mississippi River to the west, earth-brown home regions fading behind them. Motion: the dotted paths stretch westward, timed to complete within the first 3 seconds, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Top-down, slow track west. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette, consistent throughout. Mood: Somber. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
+
+- Camera Angle: Top-down, slow track west
+- Lighting: Crisis
+- Mood: Somber
+- Action: the dotted paths stretch westward
+
+---
+
+### Beat 68 · trim to ~2.1s · SEPIA MAP
+**[Script Segment]** "Their land went to farms and cotton."
+
+**Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of the American Southeast where earth-brown Native regions turn into neat glossy 3D farm plots and white cotton fields. Camera: Top-down, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Bitter. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
+
+**Video Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Opening frame: sepia map of the American Southeast where earth-brown Native regions turn into neat glossy 3D farm plots and white cotton fields. Motion: farm plots and cotton pop up over the land, timed to complete within the first 1 second, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Top-down, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette, consistent throughout. Mood: Bitter. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
+
+- Camera Angle: Top-down, slow push
+- Lighting: Default
+- Mood: Bitter
+- Action: farm plots and cotton pop up over the land
+
+---
+
+### Beat 69 · trim to ~4.2s · DIORAMA
+**[Script Segment]** "The Cherokee took their case to the Supreme Court, and in 1832, they won."
+
+**Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a glossy 3D courthouse with columns on a parchment tile, a small gavel and a gold check mark badge, a navy pill 'CHEROKEE WIN', a gold '1832'. Camera: Eye-level, slow push. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Hopeful. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
+
+**Video Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Opening frame: a glossy 3D courthouse with columns on a parchment tile, a small gavel and a gold check mark badge, a navy pill 'CHEROKEE WIN', a gold '1832'. Motion: the gavel strikes and the check mark stamps, timed to complete within the first 3 seconds, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Eye-level, slow push. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette, consistent throughout. Mood: Hopeful. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
+
+- Camera Angle: Eye-level, slow push
+- Lighting: Warm/hopeful
+- Mood: Hopeful
+- Action: the gavel strikes and the check mark stamps
+
+---
+
+### Beat 70 · trim to ~1.8s · DIORAMA
+**[Script Segment]** "President Andrew Jackson ignored the ruling."
+
+**Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a generic faceless figurine in a tall dark coat with his back turned to a courthouse on a parchment tile, the court ruling paper lying ignored on the ground. Camera: Eye-level, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Defiant, unjust. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
+
+**Video Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Opening frame: a generic faceless figurine in a tall dark coat with his back turned to a courthouse on a parchment tile, the court ruling paper lying ignored on the ground. Motion: the ruling paper drifts to the ground, timed to complete within the first 1 second, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Eye-level, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette, consistent throughout. Mood: Defiant, unjust. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
+
+- Camera Angle: Eye-level, slow push
+- Lighting: Crisis
+- Mood: Defiant, unjust
+- Action: the ruling paper drifts to the ground
+
+---
+
+### Beat 71 · trim to ~3.3s · SEPIA MAP
+**[Script Segment]** "In 1838, the Cherokee were forced out of Georgia at gunpoint."
+
+**Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia parchment map of Georgia with a dotted trail leaving it westward and small grey memorial lantern icons at the start, a gold '1838' and a navy pill 'CHEROKEE'. Camera: Top-down, slow track along the trail. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Somber. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
+
+**Video Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Opening frame: sepia parchment map of Georgia with a dotted trail leaving it westward and small grey memorial lantern icons at the start, a gold '1838' and a navy pill 'CHEROKEE'. Motion: the trail draws itself westward, timed to complete within the first 3 seconds, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Top-down, slow track along the trail. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette, consistent throughout. Mood: Somber. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
+
+- Camera Angle: Top-down, slow track along the trail
+- Lighting: Crisis
+- Mood: Somber
+- Action: the trail draws itself westward
+
+---
+
+### Beat 72 · trim to ~3.6s · SEPIA MAP
+**[Script Segment]** "By most estimates, about four thousand of them died on the way."
+
+**Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of the long dotted trail to the west with small grey memorial candle icons along it, a large gold '~4,000' at the top-left. Camera: Top-down, slow pull-back along the trail. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Mournful. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
+
+**Video Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Opening frame: sepia map of the long dotted trail to the west with small grey memorial candle icons along it, a large gold '~4,000' at the top-left. Motion: candle icons flicker on along the trail, timed to complete within the first 3 seconds, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Top-down, slow pull-back along the trail. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette, consistent throughout. Mood: Mournful. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
+
+- Camera Angle: Top-down, slow pull-back along the trail
+- Lighting: Crisis
+- Mood: Mournful
+- Action: candle icons flicker on along the trail
+
+---
+
+### Beat 73 · trim to ~2.1s · SEPIA MAP
+**[Script Segment]** "They called it the Trail of Tears."
+
+**Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of the dotted trail from Georgia to the west glowing softly, a navy pill 'TRAIL OF TEARS'. Camera: Top-down, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette. Mood: Mournful, quiet. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
+
+**Video Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Opening frame: sepia map of the dotted trail from Georgia to the west glowing softly, a navy pill 'TRAIL OF TEARS'. Motion: the trail glows softly, timed to complete within the first 1 second, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Top-down, slow push. Lighting: slightly dimmed soft top-left light, charcoal storm clouds casting soft shadows, darker vignette, consistent throughout. Mood: Mournful, quiet. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
+
+- Camera Angle: Top-down, slow push
+- Lighting: Crisis
+- Mood: Mournful, quiet
+- Action: the trail glows softly
+
+---
+
+### Beat 74 · trim to ~3.3s · DIORAMA
+**[Script Segment]** "In 1845, a newspaper editor gave the whole idea a name."
+
+**Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a glossy 3D old newspaper with a blank headline and an ink pen on a parchment tile, a gold '1845'. Camera: Overhead, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Pivotal. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
+
+**Video Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Opening frame: a glossy 3D old newspaper with a blank headline and an ink pen on a parchment tile, a gold '1845'. Motion: the pen moves toward the headline, timed to complete within the first 3 seconds, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Overhead, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette, consistent throughout. Mood: Pivotal. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
+
+- Camera Angle: Overhead, slow push
+- Lighting: Default
+- Mood: Pivotal
+- Action: the pen moves toward the headline
+
+---
+
+### Beat 75 · trim to ~0.6s · DIORAMA
+**[Script Segment]** "Manifest destiny."
+
+**Image Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Scene: a glossy 3D old newspaper with a bold headline pill 'MANIFEST DESTINY' on a parchment tile. Camera: Overhead, quick push. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette. Mood: Ominous, grand. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
+
+**Video Prompt:** 2.5D animated map explainer illustration, close-up diorama: glossy chunky 3D cartoon props standing on a soft beige-tan (#C9B98F) parchment shaded-relief map tile, background gently blurred. Opening frame: a glossy 3D old newspaper with a bold headline pill 'MANIFEST DESTINY' on a parchment tile. Motion: the headline stamps onto the page, timed to complete within the first 1 second, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Overhead, quick push. Lighting: soft top-left light with a warm outer glow around the focus area, gentle drop shadows, subtle vignette, consistent throughout. Mood: Ominous, grand. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
+
+- Camera Angle: Overhead, quick push
+- Lighting: Highlight
+- Mood: Ominous, grand
+- Action: the headline stamps onto the page
+
+---
+
+### Beat 76 · trim to ~3.3s · MODERN MAP
+**[Script Segment]** "The belief that the continent was simply meant to be American."
+
+**Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: North America with a mustard-yellow glow sweeping from the eastern United States all the way to the Pacific coast, a navy pill 'COAST TO COAST'. Camera: Wide overhead, slow pan west. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette. Mood: Ambitious. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
+
+**Video Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Opening frame: North America with a mustard-yellow glow sweeping from the eastern United States all the way to the Pacific coast, a navy pill 'COAST TO COAST'. Motion: the yellow glow sweeps west, timed to complete within the first 3 seconds, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Wide overhead, slow pan west. Lighting: warm, soft top-left light with golden tones, gentle drop shadows, subtle vignette, consistent throughout. Mood: Ambitious. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
+
+- Camera Angle: Wide overhead, slow pan west
+- Lighting: Warm/hopeful
+- Mood: Ambitious
+- Action: the yellow glow sweeps west
+
+---
+
+### Beat 77 · trim to ~1.5s · MODERN MAP
+**[Script Segment]** "Now look south and west."
+
+**Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: North America with the camera turning toward Mexico and the southwest, Mexico in red-orange. Camera: Top-down, slow pan southwest. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Shifting. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
+
+**Video Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Opening frame: North America with the camera turning toward Mexico and the southwest, Mexico in red-orange. Motion: the camera drifts to the southwest, timed to complete within the first 1 second, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Top-down, slow pan southwest. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette, consistent throughout. Mood: Shifting. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
+
+- Camera Angle: Top-down, slow pan southwest
+- Lighting: Default
+- Mood: Shifting
+- Action: the camera drifts to the southwest
+
+---
+
+### Beat 78 · trim to ~2.7s · SEPIA MAP
+**[Script Segment]** "Mexico had won its independence from Spain in 1821."
+
+**Image Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Scene: sepia map of Mexico with a small Spanish flag being replaced by a Mexican-style green-white-red flag icon, a gold '1821'. Camera: Top-down, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Historic. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
+
+**Video Prompt:** 2.5D animated map explainer illustration in sepia parchment map mode: beige-tan (#C9B98F) hillshade relief terrain, warm grey-tan ocean, faint thin borders, focus areas glowing warm white or dark earth brown (#6B4A2F). Opening frame: sepia map of Mexico with a small Spanish flag being replaced by a Mexican-style green-white-red flag icon, a gold '1821'. Motion: the flags swap, timed to complete within the first 2 seconds, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Top-down, slow push. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette, consistent throughout. Mood: Historic. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
+
+- Camera Angle: Top-down, slow push
+- Lighting: Default
+- Mood: Historic
+- Action: the flags swap
+
+---
+
+### Beat 79 · trim to ~1.5s · MODERN MAP
+**[Script Segment]** "On paper, it was huge."
+
+**Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: North America with 1821 Mexico shown in red-orange, stretching from Central America up through Texas, California and the Southwest, a navy pill 'MEXICO 1821'. Camera: Wide overhead, slow pull-back. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Vast. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
+
+**Video Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Opening frame: North America with 1821 Mexico shown in red-orange, stretching from Central America up through Texas, California and the Southwest, a navy pill 'MEXICO 1821'. Motion: the red-orange area fills in, timed to complete within the first 1 second, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Wide overhead, slow pull-back. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette, consistent throughout. Mood: Vast. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
+
+- Camera Angle: Wide overhead, slow pull-back
+- Lighting: Default
+- Mood: Vast
+- Action: the red-orange area fills in
+
+---
+
+### Beat 80 · trim to ~4.5s · MODERN MAP
+**[Script Segment]** "It stretched from Texas to California, and up into what is now Utah and Colorado."
+
+**Image Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Scene: 1821 Mexico in red-orange with navy pills 'TEXAS', 'CALIFORNIA', 'UTAH', 'COLORADO' placed across its northern lands. Camera: Top-down, slow pan from east to west. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette. Mood: Geographic. Glossy chunky 3D cartoon props with soft drop shadows, puffy 3D white clouds floating at the frame edges, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. High-detail terrain, simple smooth props, clean minimal composition with one clear focal point, any figures are tiny faceless toy-like figurines, no realistic people, no photorealism, no subtitles, no watermark, 16:9 aspect ratio.
+
+**Video Prompt:** 2.5D animated map explainer illustration in modern map mode: realistic satellite-style shaded-relief terrain with a bright sky-blue (#4F8FD6) ocean and flat, saturated country fills (mustard yellow #E8C21E for the prosperous side, red-orange #E2452B for the struggling side). Opening frame: 1821 Mexico in red-orange with navy pills 'TEXAS', 'CALIFORNIA', 'UTAH', 'COLORADO' placed across its northern lands. Motion: the four pills slide in one by one, timed to complete within the first 3 seconds, then hold with subtle idle motion (gentle cloud drift, soft shimmer on highlights). Camera movement: Top-down, slow pan from east to west. Lighting: soft, even top-left light, gentle drop shadows, subtle edge vignette, consistent throughout. Mood: Geographic. Animation style: smooth motion-graphics animation, props pop in with a soft bouncy ease, labels slide in, clouds drift slowly, terrain stays stable with no warping or morphing of coastlines. Glossy chunky 3D cartoon props with soft drop shadows, near-black navy pill labels with a gold outline and bold white all-caps text, large gold (#F5C518) 3D-extruded numbers. Any figures are tiny faceless toy-like figurines. No realistic people, no photorealism, no subtitles, no watermark, no audio, no scene cuts, single continuous shot, 16:9.
+
+- Camera Angle: Top-down, slow pan from east to west
+- Lighting: Default
+- Mood: Geographic
+- Action: the four pills slide in one by one
 
 ---
